@@ -1,0 +1,127 @@
+# LLM 模型配置
+
+deepseek:
+  # DeepSeek API 基础地址（OpenAI兼容格式）
+  base_url: https://dashscope.aliyuncs.com/compatible-mode/v1
+  # 模型名称
+  model: MiniMax-M2.1
+  # 最大输出 token 数
+  max_tokens: 4096
+  # 温度参数（越低越确定性，适合分析任务）
+  temperature: 0.3
+  # 是否启用 JSON mode 输出
+  json_mode: true
+
+# Token 计费配置（DeepSeek-V3 定价）
+pricing:
+  # 输入 token 价格（美元/百万token）
+  input_per_million: 0.27
+  # 缓存输入 token 价格
+  cached_input_per_million: 0.07
+  # 输出 token 价格
+  output_per_million: 1.10
+
+# Prompt 模板
+prompts:
+  # 第一步：新闻摘要提炼
+  summary: |
+    你是一位资深财经分析师。请阅读以下今日财经新闻合集，提炼出最重要的5-10条核心信息。
+
+    要求：
+    1. 每条摘要简明扼要（50-100字）
+    2. 按重要性排序
+    3. 突出影响市场的关键信息
+    4. 区分宏观政策、行业动态、公司事件
+
+    请直接输出JSON格式的分析结果，不要重复提示词或JSON格式示例。结构如下：
+    {{
+      "summaries": [
+        {{
+          "title": "标题",
+          "content": "摘要内容",
+          "category": "macro/industry/company",
+          "importance": 1-5
+        }}
+      ]
+    }}
+
+    今日新闻合集：
+    {news_content}
+
+  # 第二步：市场影响判断
+  market_impact: |
+    你是一位资深市场分析师。基于以下今日新闻摘要，分析对金融市场的影响。
+
+    要求：
+    1. 美股影响：判断对美股整体趋势（看涨/看跌/中性），列出主要影响逻辑
+    2. A股影响：判断对A股整体趋势（看涨/看跌/中性），列出主要影响逻辑
+    3. 利多行业：列出受益行业及受益逻辑（3-5个行业）
+    4. 利空行业：列出受损行业及受损逻辑（3-5个行业）
+
+    请直接输出JSON格式的分析结果，不要重复提示词或JSON格式示例。结构如下：
+    {{
+      "us_market": {{
+        "trend": "bullish/bearish/neutral",
+        "confidence": 0-100,
+        "reasons": ["原因1", "原因2"]
+      }},
+      "cn_market": {{
+        "trend": "bullish/bearish/neutral",
+        "confidence": 0-100,
+        "reasons": ["原因1", "原因2"]
+      }},
+      "bullish_sectors": [
+        {{
+          "sector": "行业名称",
+          "reason": "受益逻辑"
+        }}
+      ],
+      "bearish_sectors": [
+        {{
+          "sector": "行业名称",
+          "reason": "受损逻辑"
+        }}
+      ]
+    }}
+
+    今日新闻摘要：
+    {summaries}
+
+  # 第三步：个股关联
+  stock_pick: |
+    你是一位资深投资顾问。基于以下今日新闻摘要和市场影响分析，推导可能受影响的具体个股。
+
+    要求：
+    1. 每只个股需有明确的关联逻辑
+    2. 区分美股和A股个股
+    3. 给出影响方向（利好/利空）和置信度
+    4. 优先选择行业龙头和直接受影响的个股
+    5. 美股个股请提供英文代码，A股个股请提供中文名称+代码
+
+    请直接输出JSON格式的分析结果，不要重复提示词或JSON格式示例。结构如下：
+    {{
+      "us_stocks": [
+        {{
+          "symbol": "AAPL",
+          "name": "Apple Inc.",
+          "direction": "bullish/bearish",
+          "confidence": 0-100,
+          "reason": "关联逻辑"
+        }}
+      ],
+      "cn_stocks": [
+        {{
+          "symbol": "600519",
+          "name": "贵州茅台",
+          "direction": "bullish/bearish",
+          "confidence": 0-100,
+          "reason": "关联逻辑"
+        }}
+      ]
+    }}
+
+    今日新闻摘要：
+    {summaries}
+
+    市场影响分析：
+    {market_impact}

@@ -1,0 +1,33 @@
+# 新闻源配置
+# 国际源（英文）侧重全球宏观经济与美股市场
+# 国内源（中文）侧重A股、港股及中国产业政策
+
+international:
+
+  - name: CNBC
+    url: https://www.cnbc.com/id/100003114/device/rss/rss.html
+    category: finance
+    language: en
+
+
+
+domestic:
+
+  - name: 36氪
+    url: https://36kr.com/feed
+    category: tech_finance
+    language: zh
+
+
+# 抓取配置
+fetch_settings:
+  # 只抓取最近 N 小时内的新闻
+  time_window_hours: 24
+  # 每个源最多抓取条数
+  max_entries_per_source: 30
+  # 全局去重（基于 title+link hash）
+  deduplication: true
+  # 抓取超时（秒）
+  timeout: 30
+  # 单个源失败后是否继续抓取其他源
+  continue_on_error: true

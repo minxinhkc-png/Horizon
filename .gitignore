@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (generated daily, keep structure but not daily files)
+data/reports/*.md
+data/reports/*.json
+data/token_usage/*.json
+
+# Keep the directories
+!data/reports/.gitkeep
+!data/token_usage/.gitkeep
