@@ -20,7 +20,7 @@ RSS Sources → 抓取/去重/清洗 → DeepSeek 三步分析 → 报告生成(
 ```
 Horizon/
 ├── main.py                          # 主入口
-├── .env                              # 本地环境变量（不提交到Git）
+├── .env                              # 本地环境变量
 ├── config/
 │   ├── sources.yaml                 # 新闻源配置
 │   └── models.yaml                  # LLM模型 & Prompt配置
