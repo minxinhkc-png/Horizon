@@ -58,7 +58,8 @@ def generate_markdown(analysis: Dict, report_date: str, token_info: Optional[Dic
     sections = []
 
     # 标题
-    sections.append(f"# 📊 Horizon 每日金融分析报告\n\n**日期**: {report_date}\n")
+    #sections.append(f"# 📊 Horizon 每日金融分析报告\n\n**日期**: {report_date}\n")
+    sections.append(f"**日期**: {report_date}\n")
 
     # 新闻摘要
     summaries = analysis.get("summaries", [])
