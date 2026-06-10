@@ -19,6 +19,15 @@ international:
     category: finance
     language: en
 
+  - name: Financial Times (FT)
+    url: https://www.ft.com/?format=rss
+    category: finance
+    language: en
+
+  - name: Investing.com Global News
+    url: https://www.investing.com/rss/news_25.rss
+    category: finance
+    language: en
 
 
 domestic:
@@ -28,6 +37,20 @@ domestic:
     category: tech_finance
     language: zh
 
+  - name: 钛媒体
+    url: https://www.tmtpost.com/rss
+    category: tech_finance
+    language: zh
+
+  - name: 爱范儿
+    url: https://www.ifanr.com/feed
+    category: tech
+    language: zh
+
+  - name: 动点科技
+    url: https://cn.technode.com/feed/
+    category: tech_finance
+    language: zh
 
 # 抓取配置
 fetch_settings:
