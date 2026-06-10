@@ -116,8 +116,9 @@ def generate_markdown(analysis: Dict, report_date: str, token_info: Optional[Dic
     sections.append(_format_section("🇨🇳 相关A股", _format_stocks(cn_stocks)))
 
     # 页脚 - Token 使用信息
-    footer = f"\n---\n\n*本报告由 Horizon 自动化新闻分析系统生成于 {report_date} https://github.com/minxinhkc-png/Horizon*\n"
+    footer = f"\n---\n\n*本报告由 Horizon 自动化新闻分析系统生成于 {report_date}*\n"
     footer += "*AI生成内容仅供参考，不构成投资建议*\n"
+    footer += "*https://github.com/minxinhkc-png/Horizon*\n"
 
     # 添加 Token 使用信息
     if token_info:
