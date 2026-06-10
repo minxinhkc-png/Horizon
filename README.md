@@ -147,4 +147,4 @@ DeepSeek-V3 定价：
 
 ## Telegram Channel
 
-https://t.me/+t5lSPERdkjMyNWM1
+免费获取最新市场分析, 请关注: https://t.me/+t5lSPERdkjMyNWM1
