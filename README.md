@@ -144,3 +144,7 @@ DeepSeek-V3 定价：
 ## 免责声明
 
 本系统由 AI 自动生成分析内容，仅供参考，不构成任何投资建议。投资有风险，入市需谨慎。
+
+## Telegram Channel
+
+https://t.me/+t5lSPERdkjMyNWM1
