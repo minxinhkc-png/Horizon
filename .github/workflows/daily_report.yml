@@ -39,6 +39,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Ensure data directories exist
+        run: |
+          mkdir -p data/reports
+          mkdir -p data/token_usage
+          
       - name: Run daily analysis
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
@@ -53,8 +58,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/reports/ data/token_usage/ --all
-          git rm --cached data/reports/.gitkeep data/token_usage/.gitkeep 2>/dev/null || true
+          git add data/reports/ data/token_usage/
           if git diff --cached --quiet; then
             echo "No data changes to commit"
           else
