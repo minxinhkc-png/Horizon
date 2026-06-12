@@ -65,6 +65,8 @@ jobs:
           ls -la data/token_usage/ || echo "data/token_usage/ not found"
           echo "=== Git status ==="
           git status
+          echo "=== Git check-ignore ==="
+          git check-ignore -v data/reports/* data/token_usage/* || echo "No files ignored"
           git add -A data/reports/ data/token_usage/
           echo "=== Git status after add ==="
           git status
