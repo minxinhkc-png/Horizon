@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "date": "2026-06-12",
+    "generated_at": "2026-06-12T21:58:57.273108",
+    "news_count": 117,
+    "sources_used": [
+      "CNBC",
+      "钛媒体",
+      "爱范儿",
+      "动点科技",
+      "Investing.com Global News",
+      "Yahoo Finance",
+      "Financial Times (FT)",
+      "36氪",
+      "MarketWatch"
+    ]
+  },
+  "analysis": {
+    "summaries": [
+      {
+        "title": "SpaceX创纪录IPO，马斯克成为全球首位万亿富翁",
+        "content": "SpaceX在纳斯达克上市，发行价135美元，募资750亿美元创史上最大IPO。首日股价飙升29%报174美元，市值突破2万亿美元。马斯克凭借SpaceX持股及特斯拉资产，身价突破1万亿美元成为全球首位万亿富翁。S&P 500指数未纳入SpaceX，但投资者可通过特定基金间接持有。",
+        "category": "company",
+        "importance": 5
+      },
+      {
+        "title": "美伊和平协议接近达成，油价暴跌至3个月低点",
+        "content": "美国与伊朗和平协议文本已获双方同意，预计近日签署。协议将重新开放霍尔木兹海峡，原油供应担忧缓解。美国原油价格跌破85美元，布伦特原油结算价创3个月新低。市场预期能源危机将缓和，股市和债市同步上涨。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "贝索斯AI公司Prometheus完成120亿美元融资",
+        "content": "杰夫·贝索斯联合创办的AI初创公司Prometheus完成120亿美元B轮融资，投后估值约410亿美元，跻身单轮融资规模最大AI企业行列。公司从秘密项目起步，仅七个月累计融资超180亿美元，员工约150人，在旧金山、伦敦和苏黎世设有办公室。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "美联储新主席Kevin Warsh召开首次政策会议",
+        "content": "Kevin Warsh作为新任美联储主席主持首次FOMC会议，市场关注其沟通风格与政策取向。其两位前任偏好'chair'称谓，而Warsh坚持使用'chairman'。分析认为其沉默策略可能传递重要信号，投资者密切关注会议声明以判断利率政策走向。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "Paramount-WBD 1100亿美元合并获DOJ批准",
+        "content": "美国司法部批准Paramount与Warner Bros. Discovery约1100亿美元合并交易，这是重要里程碑但仍面临州检察长的潜在法律挑战。该合并将重塑媒体行业格局，交易需克服反垄断监管障碍方可完成。",
+        "category": "company",
+        "importance": 3
+      },
+      {
+        "title": "Meta按北京要求放弃20亿美元Manus交易",
+        "content": "Meta据报道已开始放弃收购中国AI初创公司Manus的交易，以遵守北京方面要求归还该公司的命令。这是中国政府对跨境科技收购的罕见干预，可能影响未来外资在华投资及AI领域国际合作。",
+        "category": "industry",
+        "importance": 3
+      },
+      {
+        "title": "阿里传以15亿美元竞购朴朴超市",
+        "content": "阿里巴巴出价15亿美元竞购即时零售平台朴朴超市，报价是高鑫零售此前6亿美元的两倍多。阿里、美团、京东此前均参与竞购，朴朴估值升至20-50亿美元区间。此举反映阿里补齐即时零售短板的战略意图。",
+        "category": "company",
+        "importance": 3
+      },
+      {
+        "title": "三安光电控股股东被申请破产重整",
+        "content": "LED芯片巨头三安光电控股股东三安电子被债权人申请破产重整，其持有的22.65%股份已全部司法冻结。实控人林秀成和总经理林科闯此前已被留置调查，公司正经历至暗时刻，但管理层称生产经营正常。",
+        "category": "company",
+        "importance": 3
+      },
+      {
+        "title": "钉钉换帅，92年陈宇森接任CEO",
+        "content": "阿里巴巴宣布钉钉管理层调整，陈航卸任CEO，由92年出生的技术极客陈宇森接任。陈航此前已担任四年董事长，此次调整为法律层面的最终确权。阿里同期进行AI组织架构升级，将通义与未来实验室合并为Token Foundry事业部。",
+        "category": "company",
+        "importance": 2
+      },
+      {
+        "title": "Adobe CFO离职加入Marvell，科技行业人事变动频繁",
+        "content": "Adobe首席财务官离职加入芯片公司Marvell，反映软件行业人才向芯片领域流动的趋势。分析师认为这进一步支持'选择芯片而非软件'的投资观点，近期软件板块因AI生存担忧持续承压。",
+        "category": "industry",
+        "importance": 2
+      }
+    ],
+    "us_market": {
+      "trend": "bullish",
+      "confidence": 75,
+      "reasons": [
+        "SpaceX创纪录IPO首日暴涨29%，提振科技股投资热情，马斯克成为万亿富翁增强市场对创新企业信心",
+        "美伊和平协议预期致油价暴跌至3个月低点，缓解通胀压力并降低美联储加息预期",
+        "贝索斯AI公司Prometheus完成120亿美元融资，显示AI领域投资热度持续高涨",
+        "Adobe CFO离职加入Marvell反映芯片行业吸引力上升，科技板块整体获得资金青睐"
+      ]
+    },
+    "cn_market": {
+      "trend": "bullish",
+      "confidence": 65,
+      "reasons": [
+        "全球油价下跌降低中国进口成本，缓解输入性通胀压力，利好制造业和消费",
+        "阿里竞购朴朴超市反映国内零售巨头补齐即时零售短板，内需消费有望获得提振",
+        "全球科技股情绪高涨带动A股科技板块情绪，AI产业链有望受益",
+        "美联储新主席上任后政策不确定性需观察，但外部环境整体偏暖"
+      ]
+    },
+    "bullish_sectors": [
+      {
+        "sector": "人工智能",
+        "reason": "贝索斯AI公司Prometheus完成120亿美元融资，估值410亿美元，显示AI领域投资热度持续高涨，带动全球AI板块估值提升"
+      },
+      {
+        "sector": "半导体芯片",
+        "reason": "Adobe CFO离职加入Marvell反映芯片行业人才和资金持续流入，'选择芯片而非软件'投资观点强化，叠加SpaceX产业链需求"
+      },
+      {
+        "sector": "航空航天",
+        "reason": "SpaceX创纪录IPO首日暴涨29%市值突破2万亿美元，提振航空航天及商业航天板块投资热情"
+      },
+      {
+        "sector": "消费电子",
+        "reason": "油价下跌降低制造业成本，科技股情绪高涨带动消费电子需求预期改善"
+      },
+      {
+        "sector": "媒体娱乐",
+        "reason": "Paramount与Warner Bros. Discovery 1100亿美元合并获DOJ批准，行业整合加速，利好头部媒体企业"
+      }
+    ],
+    "bearish_sectors": [
+      {
+        "sector": "传统软件",
+        "reason": "Adobe CFO离职加入Marvell反映软件行业人才流失，叠加AI生存担忧，软件板块持续承压"
+      },
+      {
+        "sector": "能源油气",
+        "reason": "美伊和平协议预期致油价暴跌至3个月低点，美国原油跌破85美元，能源企业盈利预期承压"
+      },
+      {
+        "sector": "LED光电",
+        "reason": "三安光电控股股东被申请破产重整，22.65%股份司法冻结，行业龙头风险暴露影响板块情绪"
+      },
+      {
+        "sector": "跨境科技并购",
+        "reason": "Meta放弃收购中国AI公司Manus反映地缘政治风险上升，未来跨境科技投资不确定性增加"
+      }
+    ],
+    "us_stocks": [
+      {
+        "symbol": "TSLA",
+        "name": "Tesla Inc.",
+        "direction": "bullish",
+        "confidence": 85,
+        "reason": "SpaceX创纪录IPO首日暴涨29%市值突破2万亿美元，马斯克成为全球首位万亿富翁，其持有的SpaceX股权和特斯拉资产价值大增，增强投资者对马斯克系公司信心"
+      },
+      {
+        "symbol": "XOM",
+        "name": "Exxon Mobil Corporation",
+        "direction": "bearish",
+        "confidence": 80,
+        "reason": "美伊和平协议预期致油价暴跌至3个月低点，美国原油跌破85美元，作为美国最大上市能源公司，XOM直接受油价下跌负面影响，盈利预期承压"
+      },
+      {
+        "symbol": "CVX",
+        "name": "Chevron Corporation",
+        "direction": "bearish",
+        "confidence": 80,
+        "reason": "美伊和平协议将重新开放霍尔木兹海峡，原油供应担忧缓解致油价创3个月新低，CVX作为美国第二大能源公司业绩将受油价下跌拖累"
+      },
+      {
+        "symbol": "UAL",
+        "name": "United Airlines Holdings",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "美伊和平协议致油价暴跌，航空燃油成本大幅下降，UAL作为美国主要航空公司将显著受益于成本端改善"
+      },
+      {
+        "symbol": "AAL",
+        "name": "American Airlines Group",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "油价暴跌至3个月低点降低航空燃油成本，AAL作为美国大型航空公司运营成本将明显下降，利好业绩改善"
+      },
+      {
+        "symbol": "MRVL",
+        "name": "Marvell Technology",
+        "direction": "bullish",
+        "confidence": 85,
+        "reason": "Adobe CFO离职加入Marvell反映芯片行业人才持续流入，强化'选择芯片而非软件'的投资观点，叠加AI芯片需求旺盛，MRVL作为数据中心芯片龙头直接受益"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "贝索斯AI公司Prometheus完成120亿美元融资显示AI领域投资热度持续高涨，NVDA作为AI芯片领导者将持续受益于行业扩张"
+      },
+      {
+        "symbol": "META",
+        "name": "Meta Platforms Inc.",
+        "direction": "bearish",
+        "confidence": 65,
+        "reason": "Meta据报道开始放弃收购中国AI公司Manus的交易，反映跨境科技并购的地缘政治风险，可能影响其AI战略布局和未来投资预期"
+      },
+      {
+        "symbol": "PARA",
+        "name": "Paramount Global",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "Paramount与Warner Bros. Discovery约1100亿美元合并获DOJ批准，作为合并方之一，PARA将受益于行业整合带来的规模效应和竞争格局改善"
+      },
+      {
+        "symbol": "WBD",
+        "name": "Warner Bros. Discovery",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "Paramount-WBD 1100亿美元合并获DOJ批准是重要里程碑，WBD作为合并主导方将重塑媒体行业格局，利好长期发展"
+      },
+      {
+        "symbol": "LMT",
+        "name": "Lockheed Martin",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "SpaceX创纪录IPO首日暴涨29%提振航空航天板块投资热情，LMT作为美国最大国防承包商和航空航天龙头将间接受益"
+      },
+      {
+        "symbol": "RTX",
+        "name": "RTX Corporation",
+        "direction": "bullish",
+        "confidence": 65,
+        "reason": "SpaceX IPO成功提振航空航天行业情绪，RTX作为航空航天和防务巨头将受益于商业航天发展热潮"
+      },
+      {
+        "symbol": "ADBE",
+        "name": "Adobe Inc.",
+        "direction": "bearish",
+        "confidence": 70,
+        "reason": "Adobe CFO离职加入Marvell反映软件行业人才流失，叠加AI生存担忧，软件板块持续承压，ADBE作为传统软件龙头面临估值压力"
+      }
+    ],
+    "cn_stocks": [
+      {
+        "symbol": "600703",
+        "name": "三安光电",
+        "direction": "bearish",
+        "confidence": 85,
+        "reason": "控股股东三安电子被债权人申请破产重整，22.65%股份全部司法冻结，实控人林秀成和总经理林科闯被留置调查，LED芯片龙头风险暴露直接冲击公司治理和融资能力"
+      },
+      {
+        "symbol": "9988.HK",
+        "name": "阿里巴巴",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "阿里出价15亿美元竞购朴朴超市，报价是高鑫零售此前6亿美元的两倍多，反映阿里补齐即时零售短板的战略意图，利好新零售布局和生态完善"
+      },
+      {
+        "symbol": "600115",
+        "name": "华夏航空",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "美伊和平协议致油价暴跌至3个月低点，航空燃油成本大幅下降，作为支线航空龙头将显著受益于成本端改善"
+      },
+      {
+        "symbol": "600104",
+        "name": "上汽集团",
+        "direction": "bullish",
+        "confidence": 65,
+        "reason": "油价下跌降低制造业成本，作为汽车制造龙头，上汽集团将受益于原材料和能源成本下降带来的利润率改善"
+      },
+      {
+        "symbol": "000651",
+        "name": "格力电器",
+        "direction": "bullish",
+        "confidence": 65,
+        "reason": "全球油价下跌降低制造业成本，格力作为家电制造龙头将受益于成本端改善，同时油价下跌缓解输入性通胀压力"
+      },
+      {
+        "symbol": "000333",
+        "name": "美的集团",
+        "direction": "bullish",
+        "confidence": 65,
+        "reason": "油价暴跌缓解输入性通胀压力，制造业成本下降，美的集团作为家电制造龙头将受益于成本改善和需求预期回升"
+      },
+      {
+        "symbol": "688981",
+        "name": "中芯国际",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "贝索斯AI公司Prometheus完成120亿美元融资显示AI投资热度高涨，叠加Adobe CFO离职加入Marvell反映芯片行业吸引力上升，中芯国际作为晶圆代工龙头将间接受益"
+      },
+      {
+        "symbol": "300433",
+        "name": "蓝思科技",
+        "direction": "bullish",
+        "confidence": 60,
+        "reason": "SpaceX IPO提振科技股情绪，同时油价下跌降低制造业成本，蓝思科技作为消费电子结构件龙头将受益于成本改善和需求预期"
+      },
+      {
+        "symbol": "002475",
+        "name": "立讯精密",
+        "direction": "bullish",
+        "confidence": 60,
+        "reason": "全球油价下跌降低制造业成本，科技股情绪高涨带动消费电子需求预期改善，立讯精密作为苹果产业链龙头将间接受益"
+      },
+      {
+        "symbol": "600536",
+        "name": "中国软件",
+        "direction": "bearish",
+        "confidence": 65,
+        "reason": "Adobe CFO离职加入Marvell反映软件行业人才流失和'选择芯片而非软件'的投资观点强化，传统软件板块持续承压"
+      },
+      {
+        "symbol": "300059",
+        "name": "东方财富",
+        "direction": "bullish",
+        "confidence": 55,
+        "reason": "美伊和平协议致油价下跌缓解通胀压力，美联储加息预期下降，利好整体市场情绪，作为互联网券商将间接受益于市场交投活跃度提升"
+      },
+      {
+        "symbol": "600809",
+        "name": "山西汾酒",
+        "direction": "bullish",
+        "confidence": 55,
+        "reason": "全球油价下跌缓解输入性通胀压力，利好消费复苏预期，作为高端白酒龙头将间接受益于消费需求改善预期"
+      }
+    ]
+  },
+  "token_usage": {
+    "total_input_tokens": 17067,
+    "total_output_tokens": 4808,
+    "total_cached_tokens": 0,
+    "total_elapsed_seconds": 51.66,
+    "input_cost_usd": 0.004608,
+    "cached_input_cost_usd": 0.0,
+    "output_cost_usd": 0.005289,
+    "total_cost_usd": 0.009897
+  }
+}
