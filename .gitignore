@@ -25,12 +25,3 @@ env/
 # OS
 .DS_Store
 Thumbs.db
-
-# Data (generated daily, keep structure but not daily files)
-data/reports/*.md
-data/reports/*.json
-data/token_usage/*.json
-
-# Keep the directories
-!data/reports/.gitkeep
-!data/token_usage/.gitkeep
