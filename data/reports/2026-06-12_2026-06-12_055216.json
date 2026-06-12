@@ -1,0 +1,357 @@
+{
+  "meta": {
+    "date": "2026-06-12",
+    "generated_at": "2026-06-12T05:52:16.601339",
+    "news_count": 114,
+    "sources_used": [
+      "36氪",
+      "动点科技",
+      "MarketWatch",
+      "Investing.com Global News",
+      "CNBC",
+      "爱范儿",
+      "Financial Times (FT)",
+      "钛媒体"
+    ]
+  },
+  "analysis": {
+    "summaries": [
+      {
+        "title": "SpaceX创纪录IPO登陆纳斯达克",
+        "content": "SpaceX以每股135美元定价登陆纳斯达克，募资750亿美元，估值1.77万亿美元，创全球IPO历史纪录。超额认购超4倍，约30%份额分配给散户。马斯克持股比例使其有望成为全球首位万亿富翁。预测市场显示首日市值可能突破2万亿美元。",
+        "category": "company",
+        "importance": 5
+      },
+      {
+        "title": "美伊达成框架协议",
+        "content": "特朗普宣布美国与伊朗达成框架协议，将重新开放霍尔木兹海峡，油价应声下跌约2%。此前特朗普曾警告将攻击伊朗基础设施。伊朗威胁将马斯克公司在中东地区列为军事目标。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "钉钉换帅：陈宇森接任CEO",
+        "content": "阿里宣布钉钉管理层调整，创始人陈航(无招)卸任CEO，由1992年出生的陈宇森接任。此前阿里合伙人委员会对钉钉管理风格争议作出表态。无招工位已搬空，其阿里职位显示仍为钉钉总裁。",
+        "category": "company",
+        "importance": 4
+      },
+      {
+        "title": "欧洲央行7月可能再次加息",
+        "content": "欧洲央行管委内格尔表示，央行将在7月保持所有选项开放，如有必要将再次加息。欧洲股市国防板块因融资担忧出现回调。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "谷歌追加5000万美元培训技工",
+        "content": "谷歌宣布追加5000万美元投资，培训美国20多个州30多万技术工人，支持AI基础设施建设。自2022年以来已在全球投入超10亿美元用于培训和技能提升项目。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "粤港澳大湾区外贸增长18.8%",
+        "content": "今年前5个月粤港澳大湾区内地9市进出口4.28万亿元，同比增长18.8%，占全国进出口总值20.7%。其中出口2.53万亿元，进口1.75万亿元，进口增速显著快于出口。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "博通被证实遭谷歌抢单",
+        "content": "博通CEO首次公开证实谷歌正在寻求ASIC供应商多元化，股价应声大跌15%，市值缩水2800亿美元。博通表示接受客户多元化是可预见的，ASIC市场竞争格局面临重大变化。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "中国造船业龙头股价暴涨超10倍",
+        "content": "中国造船业享受量价齐升红利，2026年一季度新签订单同比大增91%，全球份额71%。松发股份装入恒力重工资产后两年飙升十倍，中国船舶自2022年4月以来回升超130%。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI收购Ona布局AI代理",
+        "content": "OpenAI宣布收购初创公司Ona以支持其AI编程助手Codex，允许处理更长运行任务。同时考虑大幅下调Token价格以与Anthropic竞争，Codex周活用户达500万。",
+        "category": "industry",
+        "importance": 3
+      },
+      {
+        "title": "Anthropic发布新模型并警告AI风险",
+        "content": "Anthropic发布Claude Fable 5和Mythos 5，同时发布万字长文警告AI'递归自我改进'风险，呼吁全球为前沿AI开发准备'刹车'机制。OpenAI随后发布战略愿景加入讨论。",
+        "category": "industry",
+        "importance": 3
+      },
+      {
+        "title": "贵州茅台召开股东大会",
+        "content": "贵州茅台召开2025年度股东大会，新任董事长陈华表示将坚持供需适配，尽可能多生产基酒。公司回应价格调整、市场化改革、i茅台规划等投资者关切。尽管股王地位被超越，股东仍坚定看好茅台。",
+        "category": "company",
+        "importance": 3
+      }
+    ],
+    "us_market": {
+      "trend": "bullish",
+      "confidence": 75,
+      "reasons": [
+        "SpaceX创纪录IPO（750亿美元）提振科技股情绪，超额认购4倍显示资金涌入热情",
+        "美伊达成框架协议，地缘政治风险大幅缓和，市场风险偏好提升",
+        "谷歌追加5000万美元投资AI基础设施，OpenAI收购布局AI代理，科技行业持续获得资本青睐",
+        "油价下跌2%缓解通胀压力，对美联储政策预期形成支撑"
+      ]
+    },
+    "cn_market": {
+      "trend": "bullish",
+      "confidence": 70,
+      "reasons": [
+        "粤港澳大湾区前5月外贸增长18.8%，出口韧性强劲支撑经济复苏预期",
+        "中国造船业全球份额达71%，新签订单同比大增91%，制造业出口竞争力凸显",
+        "SpaceX IPO带动全球航天商业化预期，中国商业航天板块有望受益",
+        "贵州茅台新任董事长表态稳产稳市，消费龙头信心有所修复"
+      ]
+    },
+    "bullish_sectors": [
+      {
+        "sector": "航天航空",
+        "reason": "SpaceX创纪录IPO激发商业航天投资热情，全球航天产业估值体系重估，中国航天产业链有望受益于行业热度提升"
+      },
+      {
+        "sector": "人工智能/AI基础设施",
+        "reason": "谷歌追加5000万美元培训技术工人支持AI建设，OpenAI收购布局AI代理，行业资本开支持续增加"
+      },
+      {
+        "sector": "造船/海运",
+        "reason": "中国造船业全球份额71%创纪录，新签订单同比大增91%，量价齐升红利持续释放"
+      },
+      {
+        "sector": "半导体设备",
+        "reason": "AI芯片需求持续增长，尽管博通遭抢单，但ASIC市场竞争加剧反而推动技术进步和下游需求"
+      },
+      {
+        "sector": "外贸/港口物流",
+        "reason": "粤港澳大湾区外贸增长18.8%显示贸易活力，进口增速快于出口反映内需复苏，物流需求增加"
+      }
+    ],
+    "bearish_sectors": [
+      {
+        "sector": "油气开采/能源",
+        "reason": "美伊协议推动霍尔木兹海峡重新开放，油价应声下跌约2%，能源企业盈利预期承压"
+      },
+      {
+        "sector": "半导体芯片设计（博通及同类）",
+        "reason": "博通被证实遭谷歌抢单，股价大跌15%市值缩水2800亿美元，ASIC市场竞争格局剧变引发行业担忧"
+      },
+      {
+        "sector": "欧洲国防军工",
+        "reason": "欧洲央行可能加息叠加融资担忧，欧洲股市国防板块出现回调，资金成本上升影响军备采购"
+      },
+      {
+        "sector": "传统燃油汽车",
+        "reason": "油价下跌虽降低用车成本，但新能源车渗透率持续提升背景下，传统燃油车市场份额继续承压"
+      }
+    ],
+    "us_stocks": [
+      {
+        "symbol": "BA",
+        "name": "Boeing Co.",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "SpaceX创纪录IPO激发商业航天投资热情，全球航天产业估值重估，波音作为美国航空航天龙头有望受益于行业热度提升"
+      },
+      {
+        "symbol": "LMT",
+        "name": "Lockheed Martin",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "SpaceX IPO提振航天板块整体估值，洛克希德马丁作为美国国防航天龙头有望获得市场重新定价"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc.",
+        "direction": "bullish",
+        "confidence": 85,
+        "reason": "谷歌追加5000万美元投资培训技术工人支持AI基础设施建设，同时博通证实谷歌寻求ASIC供应商多元化，利好谷歌降低芯片采购成本"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corp.",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "OpenAI收购Ona布局AI代理，AI行业资本开支持续增加，微软作为OpenAI主要合作伙伴有望受益于AI生态发展"
+      },
+      {
+        "symbol": "AVGO",
+        "name": "Broadcom Inc.",
+        "direction": "bearish",
+        "confidence": 90,
+        "reason": "博通CEO首次公开证实谷歌正在寻求ASIC供应商多元化，股价应声大跌15%，市值缩水2800亿美元，行业竞争格局剧变"
+      },
+      {
+        "symbol": "MRVL",
+        "name": "Marvell Technology",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "博通遭谷歌抢单可能促使客户转向Marvell等替代供应商，ASIC市场竞争加剧反而推动其他厂商获得市场份额"
+      },
+      {
+        "symbol": "XOM",
+        "name": "Exxon Mobil",
+        "direction": "bearish",
+        "confidence": 80,
+        "reason": "美伊达成框架协议将重新开放霍尔木兹海峡，油价应声下跌约2%，油气开采企业盈利预期承压"
+      },
+      {
+        "symbol": "CVX",
+        "name": "Chevron Corp.",
+        "direction": "bearish",
+        "confidence": 80,
+        "reason": "美伊协议推动油价下跌，霍尔木兹海峡重新开放降低地缘风险溢价，能源巨头盈利预期下调"
+      },
+      {
+        "symbol": "AMD",
+        "name": "Advanced Micro Devices",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "AI芯片需求持续增长，ASIC市场竞争格局变化推动技术进步，AMD作为AI芯片重要供应商有望受益于行业扩张"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corp.",
+        "direction": "bullish",
+        "confidence": 85,
+        "reason": "OpenAI收购Ona布局AI代理，Anthropic发布新模型，AI行业持续高速发展，GPU需求持续旺盛支撑业绩增长"
+      }
+    ],
+    "cn_stocks": [
+      {
+        "symbol": "600879",
+        "name": "航天电子",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "SpaceX创纪录IPO激发商业航天投资热情，全球航天产业估值重估，公司作为中国航天配套龙头有望受益"
+      },
+      {
+        "symbol": "600118",
+        "name": "中国卫星",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "SpaceX IPO带动全球商业航天热度，中国卫星作为卫星制造运营龙头有望获得市场关注和估值提升"
+      },
+      {
+        "symbol": "601989",
+        "name": "中国重工",
+        "direction": "bullish",
+        "confidence": 85,
+        "reason": "中国造船业全球份额达71%创纪录，2026年一季度新签订单同比大增91%，公司作为造船业龙头享受量价齐升红利"
+      },
+      {
+        "symbol": "600150",
+        "name": "中国船舶",
+        "direction": "bullish",
+        "confidence": 85,
+        "reason": "中国造船业全球份额71%创历史新高，新签订单同比大增91%，自2022年4月以来回升超130%，行业景气度持续高涨"
+      },
+      {
+        "symbol": "600519",
+        "name": "贵州茅台",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "贵州茅台召开股东大会，新任董事长陈华表态将坚持供需适配尽可能多生产基酒，稳产稳市信号明确，消费龙头信心修复"
+      },
+      {
+        "symbol": "000538",
+        "name": "云南白药",
+        "direction": "bullish",
+        "confidence": 65,
+        "reason": "茅台股东大会传递消费龙头信心，云南白药作为消费品医药龙头有望受益于消费复苏预期"
+      },
+      {
+        "symbol": "000063",
+        "name": "中兴通讯",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "谷歌追加投资AI基础设施，OpenAI收购布局AI代理，中兴通讯作为AI基础设施重要参与者有望受益"
+      },
+      {
+        "symbol": "002230",
+        "name": "科大讯飞",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "OpenAI收购Ona布局AI代理，Anthropic发布新模型，AI行业资本开支持续增加，科大讯飞作为AI龙头有望受益"
+      },
+      {
+        "symbol": "600507",
+        "name": "长方股份",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "粤港澳大湾区前5月外贸增长18.8%，公司作为大湾区外贸相关企业有望受益于贸易活力提升"
+      },
+      {
+        "symbol": "000507",
+        "name": "珠海港",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "粤港澳大湾区外贸增长18.8%显示贸易活力，进口增速快于出口反映内需复苏，港口物流需求增加直接利好珠海港"
+      },
+      {
+        "symbol": "601866",
+        "name": "中远海控",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "美伊协议推动霍尔木兹海峡重新开放，航运通道不确定性降低，同时外贸增长18.8%支撑海运需求，中远海控直接受益"
+      },
+      {
+        "symbol": "600026",
+        "name": "中远海能",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "霍尔木兹海峡重新开放降低航运风险，同时中国造船业订单大增支撑船舶制造需求，公司作为能源运输龙头受益"
+      },
+      {
+        "symbol": "600733",
+        "name": "北汽蓝谷",
+        "direction": "bearish",
+        "confidence": 65,
+        "reason": "油价下跌虽降低用车成本，但新能源车渗透率持续提升背景下，传统燃油车及新能源汽车竞争加剧"
+      },
+      {
+        "symbol": "002594",
+        "name": "比亚迪",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "尽管油价下跌影响燃油车替代逻辑，但新能源汽车渗透率持续提升，比亚迪作为新能源车龙头有望保持竞争优势"
+      },
+      {
+        "symbol": "600104",
+        "name": "上汽集团",
+        "direction": "bearish",
+        "confidence": 70,
+        "reason": "油价下跌对燃油车形成短期利好，但新能源车渗透率持续提升，传统燃油车市场份额继续承压，上汽集团燃油车业务占比仍高"
+      },
+      {
+        "symbol": "000977",
+        "name": "浪潮信息",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "谷歌追加5000万美元投资AI基础设施，博通遭抢单推动ASIC市场竞争，浪潮信息作为AI服务器龙头有望受益于行业扩张"
+      },
+      {
+        "symbol": "688126",
+        "name": "中芯国际",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "AI芯片需求持续增长，半导体设备国产替代加速，中芯国际作为晶圆代工龙头有望受益于行业景气度回升"
+      },
+      {
+        "symbol": "603019",
+        "name": "中科曙光",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "AI行业资本开支持续增加，OpenAI收购布局AI代理，中科曙光作为算力基础设施供应商有望受益于AI发展浪潮"
+      }
+    ]
+  },
+  "token_usage": {
+    "total_input_tokens": 17110,
+    "total_output_tokens": 5618,
+    "total_cached_tokens": 0,
+    "total_elapsed_seconds": 59.21,
+    "input_cost_usd": 0.00462,
+    "cached_input_cost_usd": 0.0,
+    "output_cost_usd": 0.00618,
+    "total_cost_usd": 0.0108
+  }
+}
