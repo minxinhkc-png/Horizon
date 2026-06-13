@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "date": "2026-06-13",
+    "generated_at": "2026-06-13T14:48:27.401261",
+    "news_count": 136,
+    "sources_used": [
+      "Yahoo Finance",
+      "爱范儿",
+      "36氪",
+      "Investing.com Global News",
+      "Financial Times (FT)",
+      "钛媒体",
+      "MarketWatch",
+      "CNBC"
+    ]
+  },
+  "analysis": {
+    "summaries": [
+      {
+        "title": "SpaceX史上最大IPO：市值突破2.1万亿美元",
+        "content": "SpaceX于6月12日在纳斯达克上市，发行价135美元，首日大涨19%，市值一度突破2.1万亿美元，成为有史以来规模最大IPO。马斯克身家因此突破万亿美元，公司员工中诞生大量百万富翁。",
+        "category": "company",
+        "importance": 5
+      },
+      {
+        "title": "美伊和平协议或24小时内签署",
+        "content": "巴基斯坦总理表示，美伊和平协议有望在24小时内最终确定。特朗普政府官员此前表示协议即将签署，此举或涉及霍尔木兹海峡重新开放，对全球能源供应和地缘政治格局产生重大影响。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "Anthropic应美国政府要求全球停用Claude 5",
+        "content": "Anthropic根据美国政府出口管制指令，全面禁止外籍人士访问其最新AI模型Claude Fable 5和Mythos 5，包括公司外籍员工。这是AI史上首次已商业部署的大模型被政府强制召回。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "美国司法部批准派拉蒙与华纳兄弟探索公司合并",
+        "content": "美国司法部批准了价值约1100亿美元的派拉蒙-WBD合并案，这是交易的重要里程碑。虽然仍有来自州总检察长的法律挑战可能，但合并获批标志着媒体行业整合的重大进展。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "奢侈品消费推高通胀，富人消费行为影响美联储政策",
+        "content": "富裕阶层不受通胀影响的消费行为持续推高整体物价，令美联储抗通胀任务复杂化。同时，Pimco警告债务市场违约潮开始浮现，建议投资者增加固定收益配置。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "瑞士就人口上限法案进行公投",
+        "content": "瑞士正在投票决定是否将人口上限设定为1000万。该法案若通过，可能收紧移民政策，并给瑞士与欧盟之间的自由流动协议带来压力，对欧洲劳动力市场和双边关系产生深远影响。",
+        "category": "macro",
+        "importance": 3
+      },
+      {
+        "title": "医药公司竞相布局下一代减肥药市场",
+        "content": "多家药企加速研发下一代肥胖症药物，试图打破诺和诺德和礼来的市场垄断格局。随着全球肥胖人口增长，减肥药市场规模持续扩大，成为医药行业最热门的赛道之一。",
+        "category": "industry",
+        "importance": 3
+      },
+      {
+        "title": "吉利控股集中资源做强吉利汽车上市公司",
+        "content": "吉利控股董事长李书福宣布将有序关停并转冗余主体，集中资源做强吉利汽车控股有限公司核心上市平台，构建更清晰的治理架构。吉利汽车成为年初至今涨幅最大的港股汽车股。",
+        "category": "company",
+        "importance": 3
+      },
+      {
+        "title": "AI正在深刻改变投资和金融管理格局",
+        "content": "多家机构指出，AI技术正导致投资者资金配置和风险分散方式发生根本性变化。金融信息服务领域也迎来数据分类分级新规，六部门联合印发《金融信息服务数据分类分级指南》。",
+        "category": "industry",
+        "importance": 3
+      },
+      {
+        "title": "美国打击委内瑞拉黑帮，投资公司加入争夺石油资产赛道",
+        "content": "美军空袭杀死委内瑞拉黑帮头目。与此同时，多家投资公司加入特朗普政府主导的价值千亿美元的委内瑞拉石油资产争夺，显示出地缘政治与商业利益深度交织的态势。",
+        "category": "macro",
+        "importance": 3
+      }
+    ],
+    "us_market": {
+      "trend": "bullish",
+      "confidence": 65,
+      "reasons": [
+        "SpaceX史上最大IPO且首日大涨，显示市场对创新和科技公司有强劲需求，提振市场情绪。",
+        "美伊和平协议即将签署，地缘政治风险下降，可能推动油价下跌并利好整体经济。",
+        "巨额媒体合并获批，显示监管环境对大型交易较为友好，利好相关行业整合。"
+      ]
+    },
+    "cn_market": {
+      "trend": "bearish",
+      "confidence": 60,
+      "reasons": [
+        "美国对AI模型的出口管制升级，可能引发市场对科技领域脱钩的担忧，利空科技股情绪。",
+        "美国司法部批准大型媒体合并，但中国相关行业监管环境不同，国际资本流动或受影响。",
+        "全球能源市场因美伊协议可能出现波动，影响中国能源进口成本与相关行业。"
+      ]
+    },
+    "bullish_sectors": [
+      {
+        "sector": "航天军工",
+        "reason": "SpaceX上市成功且市值巨大，提振整个航天和太空经济板块的估值预期，也凸显了私营航天企业的市场价值。"
+      },
+      {
+        "sector": "石油天然气",
+        "reason": "美伊和平协议签署可能导致霍尔木兹海峡重新开放，增加全球原油供应，利好炼油及运输行业，降低进口成本。"
+      },
+      {
+        "sector": "媒体与娱乐",
+        "reason": "派拉蒙与华纳兄弟的合并获批，表明行业整合加速，竞争格局优化，利好大型媒体集团和内容制作公司。"
+      },
+      {
+        "sector": "创新药/生物医药",
+        "reason": "多家公司竞相布局下一代减肥药，显示该细分赛道高景气度，拥有技术优势的企业将受益。"
+      }
+    ],
+    "bearish_sectors": [
+      {
+        "sector": "AI及大模型",
+        "reason": "美国政府对Anthropic模型的全球停用和出口管制，显示出政策风险增加，对整个AI行业商业化和国际合作构成负面影响。"
+      },
+      {
+        "sector": "奢侈品消费",
+        "reason": "富人消费推高通胀，可能导致美联储更长时间维持高利率，抑制高端消费品需求和相关公司估值。"
+      },
+      {
+        "sector": "高负债企业/信用市场",
+        "reason": "Pimco警告债务市场违约潮初现，投资者需增加固定收益配置，意味着信用环境收紧，高风险、高负债行业将面临融资困难。"
+      },
+      {
+        "sector": "汽车（受贸易影响）",
+        "reason": "瑞士人口上限公投可能收紧移民和劳动力政策，影响欧洲汽车制造业用工，同时全球贸易摩擦的不确定性依然存在。"
+      }
+    ],
+    "us_stocks": [
+      {
+        "symbol": "SPCE",
+        "name": "Virgin Galactic Holdings, Inc.",
+        "direction": "bullish",
+        "confidence": 85,
+        "reason": "SpaceX上市市值超2.1万亿美元，首日大涨19%，极大提振航天和太空经济板块的估值预期，作为商业航天领域另一代表性公司，将直接受益于板块情绪和估值提升。"
+      },
+      {
+        "symbol": "XOM",
+        "name": "Exxon Mobil Corporation",
+        "direction": "bearish",
+        "confidence": 70,
+        "reason": "美伊和平协议有望24小时内签署，霍尔木兹海峡可能重新开放，增加全球原油供应，油价面临下行压力，利空大型综合石油公司的盈利预期。"
+      },
+      {
+        "symbol": "WBD",
+        "name": "Warner Bros. Discovery, Inc.",
+        "direction": "bullish",
+        "confidence": 90,
+        "reason": "美国司法部批准派拉蒙与华纳兄弟探索公司合并，金额约1100亿美元，作为合并当事方，交易获批是重大里程碑，利好公司规模效应和行业整合前景。"
+      },
+      {
+        "symbol": "LLY",
+        "name": "Eli Lilly and Company",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "多家药企加速布局下一代减肥药市场，礼来是当前肥胖症药物市场的双寡头之一（与诺和诺德），行业高景气度直接利好其领先地位和收入增长。"
+      },
+      {
+        "symbol": "ANTH",
+        "name": "Anthropic",
+        "direction": "bearish",
+        "confidence": 95,
+        "reason": "美国政府要求Anthropic全球停用其最新AI模型，这是AI史上首次商业模型被强制召回，直接利空公司商业运营和客户信任，打击其市场前景。"
+      },
+      {
+        "symbol": "LVMUY",
+        "name": "LVMH Moët Hennessy - Louis Vuitton, Société Européenne",
+        "direction": "bearish",
+        "confidence": 65,
+        "reason": "富人消费推高通胀，可能迫使美联储更长时间维持高利率，抑制高端奢侈品需求，作为全球奢侈品龙头，估值和业绩面临压力。"
+      }
+    ],
+    "cn_stocks": [
+      {
+        "symbol": "600893",
+        "name": "航发动力",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "SpaceX上市成功且市值巨大，大幅提振航天军工板块估值情绪，作为国内航空发动机核心龙头，受益于行业景气度和可比估值提升。"
+      },
+      {
+        "symbol": "601857",
+        "name": "中国石油",
+        "direction": "bearish",
+        "confidence": 75,
+        "reason": "美伊和平协议可能导致霍尔木兹海峡重新开放，增加全球原油供应，油价承压，作为国内最大油气生产商，盈利预期受油价下行压制。"
+      },
+      {
+        "symbol": "002236",
+        "name": "大华股份",
+        "direction": "bearish",
+        "confidence": 70,
+        "reason": "美国对AI模型出口管制升级，显示科技脱钩担忧加剧，作为依赖海外市场和技术合作的AI安防龙头，面临政策和业务风险。"
+      },
+      {
+        "symbol": "300760",
+        "name": "迈瑞医疗",
+        "direction": "bullish",
+        "confidence": 65,
+        "reason": "多家药企布局减肥药赛道，全球生物医药研发投入持续增长，国内创新药和医疗器械龙头受益于行业高景气度。"
+      },
+      {
+        "symbol": "601985",
+        "name": "中国核电",
+        "direction": "bearish",
+        "confidence": 60,
+        "reason": "美伊协议若签署，全球能源供应增加，油价下跌可能引发能源价格整体下行，利空核电作为替代能源的短期吸引力，同时高负债行业面临信用收紧压力。"
+      },
+      {
+        "symbol": "000858",
+        "name": "五粮液",
+        "direction": "bearish",
+        "confidence": 60,
+        "reason": "富人消费推高通胀，美联储或维持高利率，抑制高端消费品需求，作为国内奢侈品级白酒龙头，估值和业绩面临压力。"
+      }
+    ]
+  },
+  "token_usage": {
+    "total_input_tokens": 17110,
+    "total_output_tokens": 5109,
+    "total_cached_tokens": 16640,
+    "total_elapsed_seconds": 74.63,
+    "input_cost_usd": 0.00462,
+    "cached_input_cost_usd": 0.001165,
+    "output_cost_usd": 0.00562,
+    "total_cost_usd": 0.011404
+  }
+}
