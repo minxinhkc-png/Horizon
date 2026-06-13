@@ -1,0 +1,284 @@
+{
+  "meta": {
+    "date": "2026-06-13",
+    "generated_at": "2026-06-13T10:34:29.147380",
+    "news_count": 115,
+    "sources_used": [
+      "Yahoo Finance",
+      "Financial Times (FT)",
+      "MarketWatch",
+      "钛媒体",
+      "36氪",
+      "CNBC",
+      "Investing.com Global News",
+      "爱范儿"
+    ]
+  },
+  "analysis": {
+    "summaries": [
+      {
+        "title": "SpaceX创纪录IPO首日暴涨19%，市值突破2万亿美元",
+        "content": "SpaceX于6月12日登陆纳斯达克，发行价135美元募资750亿美元创历史新高。首日收涨19.22%报160.99美元，市值达2.1万亿美元，跻身美国第六大企业。马斯克成为全球首位净资产超万亿美元的富豪，身家约1.05万亿美元，相当于巴菲特的7倍。",
+        "category": "company",
+        "importance": 5
+      },
+      {
+        "title": "美国伊朗和平协议文本已达成，预计近日签署",
+        "content": "美国与伊朗就结束战争达成协议文本，巴基斯坦总理证实双方已同意和平方案。特朗普宣称战争已结束，伊朗官员确认协议框架。协议将重新开放霍尔木兹海峡，可能重塑中东地缘政治格局。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "美国政府首次强制召回商业AI模型，Anthropic全球停用Claude 5",
+        "content": "Anthropic按美国政府出口管制指令，全球禁用外籍人士访问Claude 5和Mythos 5模型。这是美国政府首次强制召回已部署给数亿用户的商业大模型，反映AI技术出口管制的重大升级。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "油价暴跌黄金跳涨，市场对伊朗协议反应剧烈",
+        "content": "美国原油跌破85美元/桶，因伊朗和平协议预期将重新开放霍尔木兹海峡。同日黄金大幅高开，白银强劲反弹，比特币也应声上涨，市场对中东局势缓和做出快速反应。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "大疆影石专利诉讼升级：云台相机领域法律对决",
+        "content": "大疆在美国德州法院起诉影石Luna Ultra侵犯6项专利，要求永久禁售。影石随即反诉5项发明专利，双方在云台相机和全景相机领域全面交火。影石股价当日跌4.22%，较高点已腰斩。",
+        "category": "company",
+        "importance": 4
+      },
+      {
+        "title": "华为发布鸿蒙7系统，终端数量突破6600万",
+        "content": "华为在HDC 2026大会上发布HarmonyOS 7，强调空间美学设计和沉浸光感效果。鸿蒙生态设备累计超13亿台，HarmonyOS 6终端数突破6600万，升级率达98%，国产操作系统生态持续壮大。",
+        "category": "industry",
+        "importance": 3
+      },
+      {
+        "title": "胖东来回应降薪传闻：从未有任何降薪决定",
+        "content": "针对网络上关于胖东来大幅降薪、员工薪酬调整等话题的讨论，公司声明从未做出任何降薪决定。此前有言论称员工收入六千元已非常好，引发舆论关注。",
+        "category": "company",
+        "importance": 3
+      },
+      {
+        "title": "博睿康科创板IPO获受理，冲刺脑机接口第一股",
+        "content": "国内脑机接口头部企业博睿康科创板IPO审核状态变更为已受理，拟募资25亿元用于研发和产业化。红杉恒辰、上海国资等机构现身股东名单，A股市场尚无主营业务聚焦脑机接口的上市公司。",
+        "category": "company",
+        "importance": 3
+      },
+      {
+        "title": "中国商业航天十年周期临近，SpaceX IPO或加速行业资本化",
+        "content": "SpaceX的2万亿美元市值证明商业航天赛道价值，中国一级市场热度骤升。星际荣耀年内完成超50亿元融资，2026年市场情绪彻底扭转，IPO大门开启，中国商业航天正走完十年周期。",
+        "category": "industry",
+        "importance": 3
+      }
+    ],
+    "us_market": {
+      "trend": "bullish",
+      "confidence": 75,
+      "reasons": [
+        "SpaceX创纪录IPO首日暴涨19%并突破2万亿美元市值，展示美国科技创新的资本市场号召力，提振市场对科技股信心",
+        "美国伊朗和平协议达成将显著降低地缘政治风险，全球经济不确定性下降支撑风险资产偏好",
+        "油价暴跌降低通胀预期，可能为美联储货币政策提供更大灵活空间"
+      ]
+    },
+    "cn_market": {
+      "trend": "bullish",
+      "confidence": 70,
+      "reasons": [
+        "华为鸿蒙生态持续壮大（终端超6600万），国产操作系统生态壮大提振科技自主信心",
+        "SpaceX成功验证商业航天赛道价值，中国商业航天正走完十年周期，资本化进程有望加速",
+        "博睿康冲刺脑机接口第一股，科创板支持硬科技政策导向明确"
+      ]
+    },
+    "bullish_sectors": [
+      {
+        "sector": "商业航天",
+        "reason": "SpaceX 2万亿美元市值验证赛道价值，中国商业航天十年周期临近，IPO大门开启，星际荣耀年内完成超50亿融资，行业资本化加速"
+      },
+      {
+        "sector": "国产软件/鸿蒙概念",
+        "reason": "华为发布HarmonyOS 7，终端数突破6600万，升级率达98%，国产操作系统生态持续壮大，替代海外系统趋势明确"
+      },
+      {
+        "sector": "脑机接口",
+        "reason": "博睿康科创板IPO获受理拟募资25亿，冲刺A股脑机接口第一股，政策支持创新医疗科技，行业进入资本化快车道"
+      },
+      {
+        "sector": "航空运输",
+        "reason": "油价跌破85美元/桶，燃油成本大幅下降直接增厚航空公司利润，同时地缘风险缓和提升国际航线需求预期"
+      },
+      {
+        "sector": "物流仓储",
+        "reason": "油价下跌降低运输成本，叠加经济活动回暖预期，行业盈利能力有望边际改善"
+      }
+    ],
+    "bearish_sectors": [
+      {
+        "sector": "油气开采",
+        "reason": "伊朗和平协议预期将重新开放霍尔木兹海峡，原油供给担忧缓解导致油价暴跌，能源企业营收和利润承压"
+      },
+      {
+        "sector": "国防军工",
+        "reason": "地缘政治风险显著缓和，中东局势稳定降低军事冲突预期，军工企业订单和估值面临压力"
+      },
+      {
+        "sector": "AI大模型/海外AI服务",
+        "reason": "美国政府首次强制召回商业AI模型（Anthropic Claude 5全球停用），AI技术出口管制升级，行业监管不确定性增加"
+      },
+      {
+        "sector": "全景/云台相机",
+        "reason": "大疆与影石专利诉讼升级，影石股价当日跌4.22%较高点已腰斩，法律纠纷对行业整体估值形成压制"
+      },
+      {
+        "sector": "黄金/贵金属",
+        "reason": "地缘风险缓和导致避险需求下降，黄金跳涨后面临回调压力，短期内价格波动加剧"
+      }
+    ],
+    "us_stocks": [
+      {
+        "symbol": "BA",
+        "name": "Boeing Co.",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "SpaceX 2万亿美元市值验证航空航天赛道价值，马斯克效应带动整体行业信心，波音作为美国航空航天龙头有望受益于商业航天热潮"
+      },
+      {
+        "symbol": "LMT",
+        "name": "Lockheed Martin",
+        "direction": "bearish",
+        "confidence": 70,
+        "reason": "美国伊朗和平协议达成显著降低地缘政治风险，中东局势稳定降低军事冲突预期，国防军工订单和估值面临压力"
+      },
+      {
+        "symbol": "COP",
+        "name": "ConocoPhillips",
+        "direction": "bearish",
+        "confidence": 80,
+        "reason": "伊朗和平协议预期将重新开放霍尔木兹海峡，原油供给担忧缓解导致油价跌破85美元/桶，能源企业营收和利润直接承压"
+      },
+      {
+        "symbol": "DAL",
+        "name": "Delta Air Lines",
+        "direction": "bullish",
+        "confidence": 85,
+        "reason": "油价暴跌直接降低燃油成本（燃油占运营成本30-40%），同时地缘风险缓和提升国际航线需求预期，双重利好航空公司"
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "SpaceX IPO成功提振科技股信心，AI技术出口管制升级反而强化iPhone和生态系统竞争力，市场对科技巨头信心增强"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "direction": "bearish",
+        "confidence": 65,
+        "reason": "美国政府首次强制召回商业AI模型（Anthropic Claude 5全球停用），AI技术出口管制升级，行业监管不确定性增加可能影响AI芯片需求"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc.",
+        "direction": "bearish",
+        "confidence": 60,
+        "reason": "AI监管不确定性增加，Google作为AI服务提供商可能面临更严格的出口管制审查，海外AI服务业务拓展受限"
+      }
+    ],
+    "cn_stocks": [
+      {
+        "symbol": "600879",
+        "name": "航天电子",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "SpaceX 2万亿美元市值验证商业航天赛道价值，中国商业航天十年周期临近，航天电子作为航天领域龙头有望受益于行业资本化加速"
+      },
+      {
+        "symbol": "600118",
+        "name": "中国卫星",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "SpaceX成功证明商业航天资本市场价值，中国一级市场热度骤升，卫星制造和运营企业直接受益于行业估值重估"
+      },
+      {
+        "symbol": "300383",
+        "name": "光环新网",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "华为发布HarmonyOS 7终端突破6600万，国产操作系统生态持续壮大，服务器和云计算基础设施提供商有望受益于国产替代趋势"
+      },
+      {
+        "symbol": "300663",
+        "name": "科创信息",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "鸿蒙生态持续扩张，国产软件替代海外系统趋势明确，与华为生态深度合作的企业有望获得更多订单和市场份额"
+      },
+      {
+        "symbol": "688077",
+        "name": "博睿康",
+        "direction": "bullish",
+        "confidence": 85,
+        "reason": "博睿康科创板IPO获受理拟募资25亿，冲刺A股脑机接口第一股，政策支持创新医疗科技，行业进入资本化快车道"
+      },
+      {
+        "symbol": "600115",
+        "name": "中国国航",
+        "direction": "bullish",
+        "confidence": 85,
+        "reason": "油价跌破85美元/桶大幅降低燃油成本，地缘风险缓和提升国际航线需求，作为国际航线占比最高的航空公司直接受益"
+      },
+      {
+        "symbol": "600104",
+        "name": "上汽集团",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "油价下跌降低消费者出行成本，叠加汽车以旧换新政策持续，燃油车需求有望边际改善，整车企业盈利能力提升"
+      },
+      {
+        "symbol": "601857",
+        "name": "中国石油",
+        "direction": "bearish",
+        "confidence": 80,
+        "reason": "伊朗和平协议预期重开霍尔木兹海峡，油价暴跌直接冲击油气开采业务，作为国内最大油气生产商营收和利润承压"
+      },
+      {
+        "symbol": "600871",
+        "name": "石化油服",
+        "direction": "bearish",
+        "confidence": 75,
+        "reason": "油价下跌导致上游资本开支收缩，油服行业工作量减少，服务价格面临压力，整体业绩预期下调"
+      },
+      {
+        "symbol": "600118",
+        "name": "中国卫星",
+        "direction": "bearish",
+        "confidence": 55,
+        "reason": "大疆与影石专利诉讼升级可能影响消费电子和无人机行业估值，但作为央企受影响相对有限"
+      },
+      {
+        "symbol": "600489",
+        "name": "中金黄金",
+        "direction": "bearish",
+        "confidence": 70,
+        "reason": "地缘风险缓和导致避险需求下降，黄金跳涨后面临回调压力，短期内价格波动加剧影响黄金企业盈利稳定性"
+      },
+      {
+        "symbol": "002291",
+        "name": "星期六",
+        "direction": "bearish",
+        "confidence": 65,
+        "reason": "大疆影石专利诉讼升级对云台相机和全景相机行业估值形成压制，消费电子摄像头相关企业可能受到连带影响"
+      }
+    ]
+  },
+  "token_usage": {
+    "total_input_tokens": 16869,
+    "total_output_tokens": 4602,
+    "total_cached_tokens": 0,
+    "total_elapsed_seconds": 50.16,
+    "input_cost_usd": 0.004555,
+    "cached_input_cost_usd": 0.0,
+    "output_cost_usd": 0.005062,
+    "total_cost_usd": 0.009617
+  }
+}
