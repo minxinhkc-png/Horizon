@@ -4,7 +4,7 @@ deepseek:
   # DeepSeek API 基础地址（OpenAI兼容格式）
   base_url: https://dashscope.aliyuncs.com/compatible-mode/v1
   # 模型名称
-  model: MiniMax-M2.1
+  model: deepseek-v4-flash
   # 最大输出 token 数
   max_tokens: 4096
   # 温度参数（越低越确定性，适合分析任务）
