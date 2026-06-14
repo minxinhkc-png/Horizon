@@ -1,0 +1,236 @@
+{
+  "meta": {
+    "date": "2026-06-14",
+    "generated_at": "2026-06-14T21:24:05.392568",
+    "news_count": 115,
+    "sources_used": [
+      "Yahoo Finance",
+      "MarketWatch",
+      "CNBC",
+      "爱范儿",
+      "Financial Times (FT)",
+      "36氪",
+      "钛媒体",
+      "Investing.com Global News"
+    ]
+  },
+  "analysis": {
+    "summaries": [
+      {
+        "title": "SpaceX IPO与马斯克登顶万亿富豪",
+        "content": "SpaceX成功完成史上最大规模IPO，马斯克成为全球首位万亿富翁，约4400名员工账面成为百万富翁。SpaceX上市提振了全球风险偏好，但美联储会议在即，高利率环境或对成长股估值构成压力。",
+        "category": "company",
+        "importance": 5
+      },
+      {
+        "title": "Kevin Warsh首次美联储会议与市场不确定性",
+        "content": "新任美联储主席Kevin Warsh本周将主持首次议息会议，经济学家对其政策路径缺乏明确预期。市场关注利率走向，若鹰派信号超预期，可能抑制AI等成长股的估值逻辑，影响股市流动性。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "特朗普推动伊朗协议及中东局势",
+        "content": "特朗普预期周日与伊朗敲定重开霍尔木兹海峡的协议，但以色列对黎巴嫩的打击使协议前景存疑。G7峰会将聚焦伊朗问题及俄乌战争，地缘政治风险可能引发能源价格波动。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic最强模型被美国政府限制访问",
+        "content": "美国政府以国家安全为由，对Anthropic的Fable5和Mythos5模型发出出口管制指令，禁止外国国民访问。此事件凸显前沿AI公司的监管不确定性，可能延缓AI商业化进程，影响Anthropic的IPO计划。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "AI投入竞赛加剧：SpaceX、Anthropic与Alphabet创纪录融资",
+        "content": "华尔街消化创纪录的融资规模，SpaceX、Anthropic和Alphabet的融资凸显投资者对AI赛道的高热情。甲骨文CEO称GPU利用率达97.5%，AI算力供不应求，但Pimco警告债务市场违约重启，市场分化加剧。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "大疆与影石互诉专利侵权，中国硬件出海升级为技术战",
+        "content": "大疆在美国起诉影石专利侵权，影石随即反诉并提起无效宣告。双方从云台相机到全景相机全面竞争，标志着中国消费硬件出海从价格战转向专利战，考验企业的核心技术壁垒。",
+        "category": "company",
+        "importance": 3
+      },
+      {
+        "title": "Meta AI战略进展不及预期，Zuckerberg面临销售压力",
+        "content": "一年前Meta挖来Alexandr Wang主导AI战略，但至今成果平平。高投入下AI商业化路径尚未清晰，投资者对Meta的AI资本支出回报率保持警惕。",
+        "category": "company",
+        "importance": 3
+      },
+      {
+        "title": "Pimco警告债务市场违约重启，建议增配固定收益",
+        "content": "债市巨头Pimco指出债务市场违约开始回升，认为股权估值偏高，建议投资者增配固定收益以锚定组合。信号表明信用风险上升，可能引发资金从股市向债市的轮动。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "蚂蚁集团秘密测试AI版支付宝",
+        "content": "外媒报道蚂蚁集团正秘密测试AI版支付宝，新版本将原生AI界面与支付、资金管理服务深度融合。此举可能颠覆现有移动支付交互模式，对金融科技行业格局产生深远影响。",
+        "category": "company",
+        "importance": 4
+      },
+      {
+        "title": "英国与日本签署180亿英镑清洁能源投资协议",
+        "content": "英国与日本计划达成价值180亿英镑的协议，日本将对英国海上风电等领域投资高达90亿英镑。合作将创造就业并推动绿色能源转型，利好相关新能源产业链企业。",
+        "category": "industry",
+        "importance": 3
+      }
+    ],
+    "us_market": {
+      "trend": "bearish",
+      "confidence": 70,
+      "reasons": [
+        "新任美联储主席Kevin Warsh首次会议政策路径不明，鹰派信号可能抑制成长股估值",
+        "Pimco警告债务市场违约重启，信用风险上升可能引发资金从股市向债市轮动",
+        "对Anthropic AI模型的出口管制凸显监管不确定性，可能延缓AI商业化进程",
+        "高利率环境对成长股估值构成压力，SpaceX IPO虽提振风险偏好但影响有限"
+      ]
+    },
+    "cn_market": {
+      "trend": "neutral",
+      "confidence": 60,
+      "reasons": [
+        "中东地缘政治风险（伊朗协议与以色列打击）可能引发能源价格波动，传导至国内市场",
+        "AI赛道融资热情高涨，但出口管制和监管不确定性影响国内AI企业预期",
+        "债务市场违约风险上升，全球资金流向可能趋于保守，影响A股流动性",
+        "国内大疆与影石专利战反映硬件出海升级，但短期对市场整体影响有限"
+      ]
+    },
+    "bullish_sectors": [
+      {
+        "sector": "新能源",
+        "reason": "英国与日本签署清洁能源投资协议，利好海上风电等新能源产业链企业"
+      },
+      {
+        "sector": "AI算力",
+        "reason": "甲骨文称GPU利用率达97.5%，AI算力供不应求，投资者对AI赛道热情高涨"
+      },
+      {
+        "sector": "金融科技",
+        "reason": "蚂蚁集团测试AI版支付宝，可能颠覆移动支付交互模式，利好相关金融科技公司"
+      },
+      {
+        "sector": "国防军工",
+        "reason": "中东局势紧张，以色列对黎巴嫩打击等地缘风险提升国防军工板块关注度"
+      },
+      {
+        "sector": "太空经济",
+        "reason": "SpaceX成功IPO并成为万亿富豪公司，提振太空经济及商业航天产业链"
+      }
+    ],
+    "bearish_sectors": [
+      {
+        "sector": "AI及科技成长股",
+        "reason": "美联储政策不确定性及鹰派预期可能抑制高估值AI成长股，且出口管制增加监管阻力"
+      },
+      {
+        "sector": "房地产",
+        "reason": "高利率环境持续，债务市场违约风险上升，房地产融资成本高企"
+      },
+      {
+        "sector": "传统汽车",
+        "reason": "AI技术投入竞赛加剧，资金从传统行业流向科技赛道，传统汽车面临竞争压力"
+      },
+      {
+        "sector": "消费电子",
+        "reason": "Meta AI战略进展不及预期，投资者对科技巨头AI资本支出回报率保持警惕，可能拖累供应链"
+      },
+      {
+        "sector": "航空与旅行",
+        "reason": "中东地缘政治风险（伊朗协议未定、以色列行动）可能扰动原油价格及国际航线"
+      }
+    ],
+    "us_stocks": [
+      {
+        "symbol": "SPCE",
+        "name": "Virgin Galactic Holdings Inc.",
+        "direction": "bullish",
+        "confidence": 85,
+        "reason": "SpaceX成功IPO（虽然未上市但融资创纪录）及马斯克成为万亿富翁，极大提振太空经济及商业航天板块情绪，SPCE作为直接对标公司受利好驱动。"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "direction": "bullish",
+        "confidence": 90,
+        "reason": "甲骨文CEO称GPU利用率达97.5%，AI算力供不应求；Anthropic等公司推动AI融资竞赛，NVDA作为AI算力核心供应商直接受益于AI投入持续增长。"
+      },
+      {
+        "symbol": "ORCL",
+        "name": "Oracle Corporation",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "甲骨文CEO强调GPU高利用率，体现其云AI基础设施需求旺盛，且公司积极参与AI算力融资，财报预期向好。"
+      },
+      {
+        "symbol": "META",
+        "name": "Meta Platforms Inc.",
+        "direction": "bearish",
+        "confidence": 75,
+        "reason": "Meta AI战略进展不及预期，投资者对其高额AI资本支出回报率保持警惕，短期可能面临估值压力。"
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "direction": "bearish",
+        "confidence": 60,
+        "reason": "美联储鹰派预期及高利率环境对成长股估值构成压力；AI竞赛加剧可能分散投资者注意力，苹果作为大型科技股面临资金分流风险。"
+      }
+    ],
+    "cn_stocks": [
+      {
+        "symbol": "601012",
+        "name": "隆基绿能",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "英国与日本签署180亿英镑清洁能源投资协议，重点投向海上风电，利好国内新能源产业链龙头，隆基作为光伏龙头受益于全球绿色能源转型。"
+      },
+      {
+        "symbol": "002049",
+        "name": "紫光国微",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "AI算力供不应求及国内AI竞赛加剧，对高性能芯片需求提升；紫光国微作为国产芯片设计龙头，受益于国产替代和AI基础设施投入。"
+      },
+      {
+        "symbol": "600570",
+        "name": "恒生电子",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "蚂蚁集团测试AI版支付宝，可能颠覆移动支付交互模式；恒生电子作为金融科技龙头，与蚂蚁集团在支付及金融IT领域深度关联，受益于行业创新预期。"
+      },
+      {
+        "symbol": "002415",
+        "name": "海康威视",
+        "direction": "bullish",
+        "confidence": 65,
+        "reason": "中东地缘政治风险（伊朗协议及以色列打击）提升国防军工及安防需求；海康威视作为安防龙头，受益于全球安全设备升级。"
+      },
+      {
+        "symbol": "600600",
+        "name": "青岛啤酒",
+        "direction": "bearish",
+        "confidence": 50,
+        "reason": "Pimco警告债务违约与股市估值偏高，资金可能转向债市；高利率环境抑制消费，传统消费股承压，青岛啤酒作为可选消费代表受负面影响。"
+      },
+      {
+        "symbol": "002230",
+        "name": "科大讯飞",
+        "direction": "bearish",
+        "confidence": 60,
+        "reason": "美国政府限制Anthropic AI模型出口，凸显AI监管不确定性；科大讯飞作为国内AI龙头，其海外拓展及技术合作面临类似监管风险。"
+      }
+    ]
+  },
+  "token_usage": {
+    "total_input_tokens": 14848,
+    "total_output_tokens": 4584,
+    "total_cached_tokens": 14336,
+    "total_elapsed_seconds": 48.71,
+    "input_cost_usd": 0.004009,
+    "cached_input_cost_usd": 0.001004,
+    "output_cost_usd": 0.005042,
+    "total_cost_usd": 0.010055
+  }
+}
