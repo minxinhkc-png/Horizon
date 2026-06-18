@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "date": "2026-06-18",
+    "generated_at": "2026-06-18T12:02:22.450886",
+    "news_count": 115,
+    "sources_used": [
+      "MarketWatch",
+      "Yahoo Finance",
+      "Investing.com Global News",
+      "CNBC",
+      "动点科技",
+      "Financial Times (FT)",
+      "36氪",
+      "爱范儿",
+      "钛媒体"
+    ]
+  },
+  "analysis": {
+    "summaries": [
+      {
+        "title": "美国与伊朗签署和平协议，油价下跌",
+        "content": "美国总统特朗普与伊朗签署协议，承诺释放冻结资金并放松制裁，双方同意在未来60天内进行进一步谈判以达成最终协议。该协议还包括3000亿美元的伊朗重建计划，消息导致油价下跌。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "美联储新任主席Warsh首次会议鹰派信号，市场承压",
+        "content": "美联储在Kevin Warsh首次主持的会议上维持利率不变，但多位官员暗示2026年可能加息，点阵图显示年末利率预期为3.8%。2年期美债收益率飙升，标普500指数下跌1.2%。Bill Ackman和Gundlach均警告Warsh并非“宽松”主席。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "Intel与Apple达成美国芯片设计合作，股价大涨9%",
+        "content": "美国总统特朗普宣布Intel将与Apple在美国合作设计芯片，这一消息推动Intel股价大涨9%，延续了近期反弹势头。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "英国央行维持利率不变，瑞士央行准备干预汇市",
+        "content": "英国央行以7:2的投票结果维持关键利率在3.75%不变，符合预期。瑞士央行同样维持利率不变，并警告瑞士法郎可能面临升值压力，准备进行外汇干预。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "SpaceX以2.1万亿美元市值上市，成全球第五大公司",
+        "content": "SpaceX在纳斯达克上市，首日市值突破2.1万亿美元，成为美国第七大公司。公司以135美元的固定价格发行股票，募资约750亿美元，吸引了超过2500亿美元的认购需求。",
+        "category": "company",
+        "importance": 5
+      },
+      {
+        "title": "AI巨头动态：Anthropic强调国际合作，Google Gemini联创离职加入OpenAI",
+        "content": "Anthropic CEO在G7峰会上呼吁美国主导AI联盟，避免技术分裂。同时，Google副总裁、Gemini模型联合负责人Noam Shazeer宣布离职加入OpenAI，担任架构研究负责人。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "近80%数据中心面临气候风险，全球半导体成本飙升",
+        "content": "研究显示全球近80%的数据中心容量面临洪水、火灾等气候灾害的高风险。同时，AI公司对内存和存储的巨大需求导致全球芯片短缺，苹果CEO库克表示产品提价“不可避免”。",
+        "category": "industry",
+        "importance": 3
+      },
+      {
+        "title": "中国AI监管与产业发展并进：金融监管总局发布AI指导意见",
+        "content": "中国金融监管总局发布银行业保险业AI安全开发应用指导意见，强调供应链风险管理，防止对个别技术过度依赖。同时鼓励大型机构向中小机构输出算力服务，支持基础设施共建共享。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "欧洲航空公司整合受阻，国防承包商股票回购受限",
+        "content": "IAG首席执行官警告欧盟竞争规则使收购易捷航空“非常困难”，呼吁改革航空并购法规。美国参议院通过法案，禁止国防承包商在未经五角大楼批准的情况下回购股票。",
+        "category": "industry",
+        "importance": 3
+      },
+      {
+        "title": "全球资金流向：华尔街银行涌入中国熊猫债市场",
+        "content": "外国政府、华尔街银行和跨国公司正纷纷涌入中国熊猫债市场，寻求利用中国相对低廉的资金成本。同时，阿里巴巴、红杉等继续押注中国AI和具身智能赛道。",
+        "category": "macro",
+        "importance": 3
+      }
+    ],
+    "us_market": {
+      "trend": "bearish",
+      "confidence": 80,
+      "reasons": [
+        "美联储新任主席Warsh鹰派信号引发市场对2026年加息的担忧，2年期美债收益率飙升，标普500下跌1.2%",
+        "多位知名投资人警告Warsh并非宽松主席，市场对流动性收紧的预期增强",
+        "油价下跌虽利好部分行业，但鹰派货币政策主导市场情绪，整体承压"
+      ]
+    },
+    "cn_market": {
+      "trend": "bullish",
+      "confidence": 65,
+      "reasons": [
+        "中国金融监管总局发布AI安全开发应用指导意见，鼓励大型机构向中小机构输出算力服务，利好AI产业和金融科技发展",
+        "全球资金大量涌入中国熊猫债市场，利用中国较低的资金成本，显示国际资本对中国金融市场的信心",
+        "阿里巴巴、红杉等继续押注中国AI和具身智能赛道，反映产业资本看好中国科技领域前景"
+      ]
+    },
+    "bullish_sectors": [
+      {
+        "sector": "半导体/芯片设计",
+        "reason": "Intel与Apple达成美国芯片设计合作，推动Intel股价大涨9%，显示美国本土芯片设计需求强劲，利好整个半导体产业链"
+      },
+      {
+        "sector": "航天航空/国防承包",
+        "reason": "SpaceX以2.1万亿美元市值上市，成为全球第七大公司，极大提振航天及商业航天板块的市场情绪和估值"
+      },
+      {
+        "sector": "人工智能",
+        "reason": "Anthropic呼吁AI国际合作，Google AI核心成员离职加入OpenAI，中国发布AI指导意见鼓励算力共享，全球AI产业竞争与合作加速，利好AI技术公司"
+      },
+      {
+        "sector": "金融科技/银行",
+        "reason": "中国金融监管总局鼓励大型金融机构向中小机构输出AI算力服务，同时全球银行涌入中国熊猫债市场，金融服务和科技融合受益"
+      },
+      {
+        "sector": "能源/石油",
+        "reason": "短期油价下跌可能导致部分成本下降，但美伊和平协议带来的重建计划（3000亿美元）中长期利好能源基础设施相关企业"
+      }
+    ],
+    "bearish_sectors": [
+      {
+        "sector": "石油/能源勘探",
+        "reason": "美伊和平协议导致油价下跌，直接压缩石油公司利润空间，尤其对高成本勘探企业不利"
+      },
+      {
+        "sector": "数据中心/云服务",
+        "reason": "近80%数据中心面临气候灾害风险，全球芯片短缺推动半导体成本飙升，苹果提价显示下游成本压力传导，数据中心运营成本增加"
+      },
+      {
+        "sector": "汽车/消费电子",
+        "reason": "全球芯片短缺导致苹果产品提价，半导体成本上涨将打击依赖芯片的汽车和消费电子行业利润率，需求可能受抑制"
+      },
+      {
+        "sector": "欧洲航空",
+        "reason": "IAG首席执行官警告欧盟竞争规则使航空并购困难，欧洲航空业整合受阻，可能影响行业效率和竞争力"
+      },
+      {
+        "sector": "国防承包商",
+        "reason": "美国参议院通过法案禁止国防承包商未经五角大楼批准回购股票，限制其资本运作灵活性，短期对股价和股东回报产生负面影响"
+      }
+    ],
+    "us_stocks": [
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "direction": "bearish",
+        "confidence": 85,
+        "reason": "CEO库克表示产品提价不可避免，因芯片短缺和成本上升；同时Intel合作消息可能长期利好，但短期成本压力主导"
+      },
+      {
+        "symbol": "INTC",
+        "name": "Intel Corporation",
+        "direction": "bullish",
+        "confidence": 90,
+        "reason": "与Apple达成美国芯片设计合作，股价大涨9%，受益于美国本土芯片制造政策支持"
+      },
+      {
+        "symbol": "XOM",
+        "name": "Exxon Mobil Corporation",
+        "direction": "bearish",
+        "confidence": 80,
+        "reason": "美伊和平协议导致油价下跌，直接利空石油勘探公司，高成本生产商压力更大"
+      },
+      {
+        "symbol": "SPCE",
+        "name": "Virgin Galactic Holdings, Inc.",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "SpaceX以2.1万亿美元市值上市，大幅提振商业航天板块估值和市场情绪"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation",
+        "direction": "bearish",
+        "confidence": 60,
+        "reason": "美联储鹰派信号导致市场承压，且近80%数据中心面临气候风险，微软云服务成本可能上升"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc.",
+        "direction": "bearish",
+        "confidence": 55,
+        "reason": "Gemini联合负责人离职加入OpenAI，人才流失可能影响AI竞争力；数据中心成本压力"
+      },
+      {
+        "symbol": "LMT",
+        "name": "Lockheed Martin Corporation",
+        "direction": "bearish",
+        "confidence": 75,
+        "reason": "美国参议院通过法案禁止国防承包商未经批准回购股票，限制资本运作，负面打击股价"
+      },
+      {
+        "symbol": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "direction": "bullish",
+        "confidence": 65,
+        "reason": "全球银行涌入中国熊猫债市场，利用中国低成本资金，华尔街银行受益于国际资本流动"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "direction": "bearish",
+        "confidence": 70,
+        "reason": "全球芯片短缺推高半导体成本，苹果提价显示成本传导，汽车行业利润率受压"
+      }
+    ],
+    "cn_stocks": [
+      {
+        "symbol": "688981",
+        "name": "中芯国际",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "全球芯片短缺持续，AI公司和消费电子对芯片需求巨大，中国半导体产业受益于国产替代和成本上升"
+      },
+      {
+        "symbol": "600519",
+        "name": "贵州茅台",
+        "direction": "neutral",
+        "confidence": 50,
+        "reason": "国际资本涌入熊猫债市场提升中国金融信心，但消费电子成本压力间接影响消费股情绪，影响中性"
+      },
+      {
+        "symbol": "601398",
+        "name": "工商银行",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "外国政府和银行涌入熊猫债市场，中国金融监管总局鼓励大型金融机构输出AI算力，大型银行受益于业务扩张"
+      },
+      {
+        "symbol": "002230",
+        "name": "科大讯飞",
+        "direction": "bullish",
+        "confidence": 85,
+        "reason": "中国金融监管总局发布AI指导意见，鼓励大型机构向中小机构输出算力服务，利好AI技术龙头"
+      },
+      {
+        "symbol": "600745",
+        "name": "闻泰科技",
+        "direction": "bearish",
+        "confidence": 70,
+        "reason": "全球芯片短缺导致成本飙升，苹果产品提价显示下游压力，半导体公司面临利润率挤压"
+      },
+      {
+        "symbol": "688008",
+        "name": "澜起科技",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "全球芯片短缺和AI内存需求激增，利好内存接口芯片龙头，苹果提价反映需求旺盛"
+      },
+      {
+        "symbol": "600941",
+        "name": "中国移动",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "中国鼓励算力基础设施共建共享，大型电信运营商可向中小企业输出算力服务，受益于政策"
+      },
+      {
+        "symbol": "300750",
+        "name": "宁德时代",
+        "direction": "neutral",
+        "confidence": 55,
+        "reason": "芯片短缺可能间接影响新能源汽车生产节奏，但电池需求长期向好，影响中性偏正面"
+      }
+    ]
+  },
+  "token_usage": {
+    "total_input_tokens": 18277,
+    "total_output_tokens": 4890,
+    "total_cached_tokens": 17536,
+    "total_elapsed_seconds": 82.09,
+    "input_cost_usd": 0.004935,
+    "cached_input_cost_usd": 0.001228,
+    "output_cost_usd": 0.005379,
+    "total_cost_usd": 0.011541
+  }
+}
