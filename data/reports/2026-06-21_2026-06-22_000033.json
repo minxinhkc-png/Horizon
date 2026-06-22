@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "date": "2026-06-21",
+    "generated_at": "2026-06-22T00:00:33.107222",
+    "news_count": 104,
+    "sources_used": [
+      "MarketWatch",
+      "Financial Times (FT)",
+      "36氪",
+      "Yahoo Finance",
+      "CNBC",
+      "Investing.com Global News",
+      "钛媒体"
+    ]
+  },
+  "analysis": {
+    "summaries": [
+      {
+        "title": "AI算力需求持续扩张，国产模型加速迭代",
+        "content": "国内GLM-5.2、Kimi K2.7等模型迭代，推动国产AI从通用问答转向企业级工作流；海外Anthropic收入增长，AI云厂商backlog上升，GPU租赁价格上行，算力、存储和租赁服务景气度延续。",
+        "category": "industry",
+        "importance": 5
+      },
+      {
+        "title": "美伊紧张局势升级，油价上涨，全球避险情绪升温",
+        "content": "美国与伊朗在瑞士进行紧张和平谈判，油价因特朗普威胁新制裁而上涨。霍尔木兹危机引发中东管道建设潮，促使投资者关注能源安全与地缘政治风险对市场的影响。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "美联储7月维持利率概率61.5%，市场预期利率轨迹分化",
+        "content": "据CME数据，美联储7月维持利率不变的概率为61.5%，9月累计加息概率超52%。市场对利率路径预期不一，影响债券、股市及美元走势，投资者需关注后续通胀数据。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "一线城市楼市持续回暖，改善型需求释放",
+        "content": "端午前后北京、深圳、上海楼市回暖，新房和二手房看房量、成交量上升，改善型住房需求加快释放。专家认为政策支持和房价趋稳有利于提振全国购房信心，但后续修复力度待观察。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "华润新能源IPO刷新深交所纪录，募资245亿元",
+        "content": "华润新能源6月22日申购，发行价10.11元/股，预计募集245亿元，超越金龙鱼成为深交所史上最大规模IPO。资金将用于风电、太阳能项目，显示新能源板块融资热度高涨。",
+        "category": "company",
+        "importance": 4
+      },
+      {
+        "title": "8部门联合部署加快‘人工智能+消费’发展",
+        "content": "商务部等8部门印发《实施意见》，提出17条举措，聚焦智能商品消费、服务消费和创新场景。重点扩大AI手机、智能家居、智能网联汽车等产品消费，推动AI与零售、物流融合。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "Micron（美光）利润增长近1000%，成市场重点关注事件",
+        "content": "Micron利润增速接近10倍，且来自纯利润增长，对S&P 500指数产生实际影响。投资者关注其财报以判断AI与存储芯片需求的可持续性，半导体板块走势将受此指引。",
+        "category": "company",
+        "importance": 4
+      },
+      {
+        "title": "端午档票房创影史场次新高，《玩具总动员5》表现强劲",
+        "content": "2026年端午档票房3.94亿，总场次145.4万创历史新高。迪士尼皮克斯《玩具总动员5》首周末国内票房1.6亿美元，为系列最佳，显示娱乐消费复苏及IP价值。",
+        "category": "industry",
+        "importance": 3
+      },
+      {
+        "title": "地缘政治推动全球防务科技VC融资超120亿美元",
+        "content": "全球防务科技领域风险投资今年已超120亿美元，超过2025年全年总额，估值飙升引发泡沫担忧。投资人需关注军工、网络安全等国防相关板块的投资机会与风险。",
+        "category": "industry",
+        "importance": 3
+      },
+      {
+        "title": "Goldman Sachs警告1650亿美元股票抛售风险",
+        "content": "高盛指出因杠杆率上升，可能触发1650亿美元的股票抛售。此警告引发市场对流动性风险及机构资金动态的关注，叠加地缘和通胀不确定性，近期股市波动可能加剧。",
+        "category": "macro",
+        "importance": 3
+      }
+    ],
+    "us_market": {
+      "trend": "bearish",
+      "confidence": 70,
+      "reasons": [
+        "美伊紧张局势升级导致油价上涨，避险情绪升温，对股市形成压力",
+        "美联储利率路径分歧，9月加息概率超52%，紧缩预期压制估值",
+        "高盛警告1650亿美元股票抛售风险，流动性风险加剧波动"
+      ]
+    },
+    "cn_market": {
+      "trend": "neutral",
+      "confidence": 65,
+      "reasons": [
+        "AI算力需求扩张和国产模型迭代对科技板块构成利好，但地缘政治风险带来不确定性",
+        "一线城市楼市回暖及消费刺激政策提供支撑，但市场情绪分化",
+        "美联储加息预期和全球避险情绪可能外溢影响A股资金流向"
+      ]
+    },
+    "bullish_sectors": [
+      {
+        "sector": "AI/算力",
+        "reason": "AI模型迭代与算力需求扩张，GPU租赁价格上行，存储芯片景气度延续，相关企业受益"
+      },
+      {
+        "sector": "新能源",
+        "reason": "华润新能源IPO规模创纪录，风电太阳能项目资金到位，政策推动能源转型"
+      },
+      {
+        "sector": "消费电子/智能家居",
+        "reason": "8部门推动‘人工智能+消费’，扩大AI手机、智能家居等产品消费，利好产业链"
+      },
+      {
+        "sector": "房地产",
+        "reason": "一线城市楼市回暖，改善型需求释放，政策支持有助于行业短期修复"
+      },
+      {
+        "sector": "娱乐消费",
+        "reason": "端午档票房创新高，《玩具总动员5》表现强劲，显示居民娱乐消费复苏趋势"
+      }
+    ],
+    "bearish_sectors": [
+      {
+        "sector": "石油化工",
+        "reason": "美伊紧张局势推高油价，成本端压力增加，企业盈利空间受挤压"
+      },
+      {
+        "sector": "交通运输",
+        "reason": "油价上涨导致运费成本攀升，航空、航运等行业利润承压"
+      },
+      {
+        "sector": "汽车制造",
+        "reason": "一线城市楼市回暖可能分流购车消费，智能网联汽车虽有政策但短期需求不确定性大"
+      },
+      {
+        "sector": "半导体（传统存储）",
+        "reason": "Micron利润大增虽有利好，但高盛警告股票抛售风险可能引发板块波动，且美联储加息预期压制高估值科技股"
+      },
+      {
+        "sector": "中小银行",
+        "reason": "美联储利率分歧与加息预期下，美元走强和全球流动性收缩可能影响中小银行资金成本"
+      }
+    ],
+    "us_stocks": [
+      {
+        "symbol": "MU",
+        "name": "Micron Technology",
+        "direction": "bullish",
+        "confidence": 85,
+        "reason": "利润增长近1000%，存储芯片需求旺盛，AI算力扩张直接利好"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "AI算力需求扩张，GPU租赁价格上行，行业龙头直接受益"
+      },
+      {
+        "symbol": "ANF",
+        "name": "Anthropic",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "收入增长，AI模型迭代推动企业级应用，云厂商backlog上升"
+      },
+      {
+        "symbol": "CVX",
+        "name": "Chevron Corporation",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "美伊紧张油价上涨，能源安全关注提升，油气龙头受益"
+      },
+      {
+        "symbol": "DIS",
+        "name": "The Walt Disney Company",
+        "direction": "bullish",
+        "confidence": 65,
+        "reason": "《玩具总动员5》票房强劲，娱乐消费复苏，IP价值凸显"
+      },
+      {
+        "symbol": "GS",
+        "name": "Goldman Sachs Group",
+        "direction": "bearish",
+        "confidence": 70,
+        "reason": "警告股票抛售风险，自身业绩受市场波动和流动性影响"
+      }
+    ],
+    "cn_stocks": [
+      {
+        "symbol": "603986",
+        "name": "兆易创新",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "存储芯片景气度延续，AI算力需求推动国产替代，行业龙头"
+      },
+      {
+        "symbol": "002230",
+        "name": "科大讯飞",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "国产AI模型加速迭代，‘人工智能+消费’政策利好，智能语音龙头"
+      },
+      {
+        "symbol": "000333",
+        "name": "美的集团",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "8部门推动智能家居消费，龙头直接受益，改善型需求释放"
+      },
+      {
+        "symbol": "300750",
+        "name": "宁德时代",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "华润新能源大IPO提振板块，新能源政策支持，电池龙头"
+      },
+      {
+        "symbol": "600048",
+        "name": "保利发展",
+        "direction": "bullish",
+        "confidence": 65,
+        "reason": "一线城市楼市回暖，改善型需求释放，政策支持，央企龙头"
+      },
+      {
+        "symbol": "600028",
+        "name": "中国石化",
+        "direction": "bearish",
+        "confidence": 60,
+        "reason": "油价上涨增加成本，化工下游盈利受压，运输成本攀升"
+      },
+      {
+        "symbol": "601111",
+        "name": "中国国航",
+        "direction": "bearish",
+        "confidence": 70,
+        "reason": "油价上涨导致航油成本飙升，交通运输利润承压"
+      }
+    ]
+  },
+  "token_usage": {
+    "total_input_tokens": 14190,
+    "total_output_tokens": 5247,
+    "total_cached_tokens": 0,
+    "total_elapsed_seconds": 54.37,
+    "input_cost_usd": 0.003831,
+    "cached_input_cost_usd": 0.0,
+    "output_cost_usd": 0.005772,
+    "total_cost_usd": 0.009603
+  }
+}
