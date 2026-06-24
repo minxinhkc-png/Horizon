@@ -1,0 +1,286 @@
+{
+  "meta": {
+    "date": "2026-06-24",
+    "generated_at": "2026-06-24T11:23:54.635583",
+    "news_count": 141,
+    "sources_used": [
+      "36氪",
+      "动点科技",
+      "MarketWatch",
+      "爱范儿",
+      "Yahoo Finance",
+      "Financial Times (FT)",
+      "钛媒体",
+      "CNBC",
+      "Investing.com Global News"
+    ]
+  },
+  "analysis": {
+    "summaries": [
+      {
+        "title": "AI法案要求科技公司承担数据中心能源成本",
+        "content": "美国众议院小组委员会推进立法，要求科技公司为其AI数据中心的运营支付能源费用。此举将直接影响大型科技公司的运营成本，并对AI算力扩张形成政策约束。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "SK海力士提交美国IPO申请，拟筹资290亿美元",
+        "content": "SK海力士已提交美国IPO申请，计划筹资约290亿美元在纳斯达克上市。作为全球主要AI内存芯片供应商，此次上市将为投资者提供直接投资AI核心产业链的机会。",
+        "category": "industry",
+        "importance": 5
+      },
+      {
+        "title": "科技股从全球AI抛售中反弹，芯片股局部动荡",
+        "content": "科技股在经历了由全球AI抛售引发的芯片股暴跌后出现反弹。半导体板块此前曾创历史新高，但单日跌幅达7%，显示AI相关投资情绪的高度波动性。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "德国国防公司莱茵金属取消多艘军舰建造计划",
+        "content": "德国决定取消数十亿欧元的F126护卫舰项目，引发国防股暴跌，莱茵金属股价下跌17%。此举对欧洲国防工业供给信心造成冲击，反映了国防项目成本超支的普遍问题。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "Meta发布299美元起AI眼镜，推进可穿戴设备",
+        "content": "Meta推出售价299美元的全新AI眼镜系列，这是其首次以自有品牌销售，比Ray-Ban联合款便宜80美元。该产品旨在降低AI硬件门槛，抢占消费级AI入口。",
+        "category": "company",
+        "importance": 4
+      },
+      {
+        "title": "豆包推出专业版，AI助手进入付费订阅模式",
+        "content": "字节跳动豆包推出专业版，标准版连续包月68元，标志着中国AI助手从免费补贴向商业化的关键转变。AI助手行业面临从月活争夺到盈利能力的战略拐点。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "摩根士丹利上调中国人形机器人出货量预测",
+        "content": "摩根士丹利将中国人形机器人市场预测翻倍，看好其商业化加速落地。早期商业部署正在多个真实场景中推进，该赛道投资热度持续升温。",
+        "category": "industry",
+        "importance": 3
+      },
+      {
+        "title": "布伦特原油跌至76美元以下，创战争前新低",
+        "content": "布伦特原油价格跌破76美元，创下自美伊战争前夕以来的最低水平。美国总统特朗普持续施压石油公司降低汽油价格，市场对供应过剩风险的担忧加剧。",
+        "category": "macro",
+        "importance": 3
+      },
+      {
+        "title": "美国通过住房可负担法案，限制私募基金购房",
+        "content": "美国众议院通过旨在降低购房成本并限制私募股权购房的法案，已送交总统签署。该政策旨在缓解住房危机，但分析师称需时间才能产生实质影响。",
+        "category": "macro",
+        "importance": 3
+      },
+      {
+        "title": "欧洲热浪致法国大规模停电，气候危机成本凸显",
+        "content": "创纪录热浪席卷欧洲，法国西部约6.8万户家庭因热相关停电断电。极端天气对能源基础设施的压力日益加大，气候危机正在转化为具体的经济治理成本。",
+        "category": "macro",
+        "importance": 3
+      }
+    ],
+    "us_market": {
+      "trend": "neutral",
+      "confidence": 65,
+      "reasons": [
+        "AI法案推进要求科技公司承担数据中心能源成本，增加运营成本，利空科技股",
+        "SK海力士290亿美元IPO将带来大量科技股供给，可能稀释资金",
+        "科技股在AI抛售后反弹，但芯片股波动剧烈，情绪不稳定",
+        "原油价格暴跌至战争前新低，可能对能源股形成压制，但利好消费和运输"
+      ]
+    },
+    "cn_market": {
+      "trend": "bullish",
+      "confidence": 60,
+      "reasons": [
+        "摩根士丹利上调中国人形机器人出货量预测，利好A股机器人概念板块",
+        "豆包推出付费专业版，标志AI助手商业化拐点，利好国内AI产业链",
+        "国际油价下跌有助于降低中国制造业成本，改善企业利润",
+        "科技股全球反弹情绪传导，A股科技板块可能受益"
+      ]
+    },
+    "bullish_sectors": [
+      {
+        "sector": "AI硬件与可穿戴设备",
+        "reason": "Meta发布低价AI眼镜，推动消费级AI硬件普及，利好相关产业链公司"
+      },
+      {
+        "sector": "人形机器人",
+        "reason": "摩根士丹利上调出货量预测，商业化加速落地，行业投资热度升温"
+      },
+      {
+        "sector": "AI软件与助手",
+        "reason": "豆包推出付费专业版，AI助手从免费转向收费模式，提升盈利预期"
+      },
+      {
+        "sector": "半导体",
+        "reason": "SK海力士IPO凸显AI内存芯片需求，虽然短期波动但长期需求强劲"
+      },
+      {
+        "sector": "消费与运输",
+        "reason": "布伦特原油暴跌至76美元以下，降低运输和消费成本，提升行业利润"
+      }
+    ],
+    "bearish_sectors": [
+      {
+        "sector": "大型科技公司",
+        "reason": "AI法案要求科技公司承担数据中心能源成本，直接增加运营开支"
+      },
+      {
+        "sector": "国防军工",
+        "reason": "德国莱茵金属取消军舰建造计划，欧洲国防项目不确定性冲击板块信心"
+      },
+      {
+        "sector": "能源与石油",
+        "reason": "原油价格创战争前新低，特朗普施压降价以及供应过剩风险压制行业"
+      },
+      {
+        "sector": "私募股权与房地产",
+        "reason": "美国通过住房法案限制私募基金购房，影响其投资范围和收益"
+      },
+      {
+        "sector": "电力与公用事业",
+        "reason": "欧洲热浪导致大规模停电，极端天气增加电网维护成本，行业压力上升"
+      }
+    ],
+    "us_stocks": [
+      {
+        "symbol": "META",
+        "name": "Meta Platforms Inc.",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "发布299美元自品牌AI眼镜，消费级AI硬件起量，利好Meta营收和生态"
+      },
+      {
+        "symbol": "SKHYY",
+        "name": "SK Hynix Inc. (pending IPO)",
+        "direction": "neutral",
+        "confidence": 60,
+        "reason": "提交290亿美元IPO，凸显AI内存需求强劲，但上市后短期可能稀释资金"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "direction": "bearish",
+        "confidence": 75,
+        "reason": "AI法案要求承担数据中心能源成本，增加下游客户开支，或抑制算力扩张需求"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com Inc.",
+        "direction": "bearish",
+        "confidence": 70,
+        "reason": "作为云计算和AI数据中心大户，能源成本转嫁将直接冲击运营利润率"
+      },
+      {
+        "symbol": "XOM",
+        "name": "Exxon Mobil Corporation",
+        "direction": "bearish",
+        "confidence": 80,
+        "reason": "布伦特原油跌至76美元以下，供应过剩加剧，能源股承压"
+      },
+      {
+        "symbol": "RHE",
+        "name": "RHEINMETALL AG (OTC: RNMBF)",
+        "direction": "bearish",
+        "confidence": 85,
+        "reason": "德国取消F126护卫舰项目，国防股暴跌17%，欧洲国防项目不确定性上升"
+      },
+      {
+        "symbol": "INTC",
+        "name": "Intel Corporation",
+        "direction": "bullish",
+        "confidence": 65,
+        "reason": "AI法案虽增加成本，但半导体反弹趋势下，晶圆代工地位或受益于本地化需求"
+      },
+      {
+        "symbol": "CCL",
+        "name": "Carnival Corporation & plc",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "原油暴跌降低航运燃油成本，利好邮轮和运输消费股利润"
+      }
+    ],
+    "cn_stocks": [
+      {
+        "symbol": "688981",
+        "name": "中芯国际",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "AI芯片需求强劲，SK海力士IPO验证内存链条景气，带动国内半导体产业链"
+      },
+      {
+        "symbol": "300750",
+        "name": "宁德时代",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "人形机器人出货量预测翻倍，电池储能核心部件龙头直接受益于机器人商业化"
+      },
+      {
+        "symbol": "688777",
+        "name": "中控技术",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "人形机器人控制系统核心供应商，摩根士丹利上调增速预期，利好订单释放"
+      },
+      {
+        "symbol": "300124",
+        "name": "汇川技术",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "机器人伺服电机和驱动系统龙头，商业化落地加速带动出货量增长"
+      },
+      {
+        "symbol": "600839",
+        "name": "科大讯飞",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "豆包付费模式验证AI助手商业化，讯飞星火大模型有望跟进升级，利好营收"
+      },
+      {
+        "symbol": "002230",
+        "name": "科大讯飞",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "AI软件付费趋势明确，科大讯飞作为语音AI龙头，用户转化可期"
+      },
+      {
+        "symbol": "600519",
+        "name": "贵州茅台",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "原油暴跌降低物流成本，利好消费行业利润，高端白酒资产受益于成本优化"
+      },
+      {
+        "symbol": "601138",
+        "name": "工业富联",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "AI服务器代工龙头，Meta眼镜和AI部署带动算力硬件需求，间接利好"
+      },
+      {
+        "symbol": "300433",
+        "name": "蓝思科技",
+        "direction": "bullish",
+        "confidence": 65,
+        "reason": "Meta AI眼镜玻璃盖板供应商，消费级硬件起量带动订单增量"
+      },
+      {
+        "symbol": "600028",
+        "name": "中国石化",
+        "direction": "bearish",
+        "confidence": 70,
+        "reason": "国际油价创战争前新低，中石化炼化业务面临库存减值风险，利润承压"
+      }
+    ]
+  },
+  "token_usage": {
+    "total_input_tokens": 18754,
+    "total_output_tokens": 6966,
+    "total_cached_tokens": 0,
+    "total_elapsed_seconds": 115.91,
+    "input_cost_usd": 0.005064,
+    "cached_input_cost_usd": 0.0,
+    "output_cost_usd": 0.007663,
+    "total_cost_usd": 0.012726
+  }
+}
