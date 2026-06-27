@@ -2,35 +2,35 @@
   "records": [
     {
       "step": "summary",
-      "input_tokens": 15230,
-      "output_tokens": 1369,
-      "cached_tokens": 15104,
-      "elapsed_seconds": 17.87
+      "input_tokens": 14975,
+      "output_tokens": 1493,
+      "cached_tokens": 14848,
+      "elapsed_seconds": 18.74
     },
     {
       "step": "market_impact",
-      "input_tokens": 1164,
-      "output_tokens": 826,
+      "input_tokens": 1163,
+      "output_tokens": 1252,
       "cached_tokens": 1024,
-      "elapsed_seconds": 9.76
+      "elapsed_seconds": 13.91
     },
     {
       "step": "stock_pick",
-      "input_tokens": 1636,
-      "output_tokens": 3330,
-      "cached_tokens": 0,
-      "elapsed_seconds": 35.81
+      "input_tokens": 1831,
+      "output_tokens": 2610,
+      "cached_tokens": 1792,
+      "elapsed_seconds": 24.59
     }
   ],
   "summary": {
-    "total_input_tokens": 18030,
-    "total_output_tokens": 5525,
-    "total_cached_tokens": 16128,
-    "total_elapsed_seconds": 63.44,
-    "input_cost_usd": 0.004868,
-    "cached_input_cost_usd": 0.001129,
-    "output_cost_usd": 0.006078,
-    "total_cost_usd": 0.012075
+    "total_input_tokens": 17969,
+    "total_output_tokens": 5355,
+    "total_cached_tokens": 17664,
+    "total_elapsed_seconds": 57.25,
+    "input_cost_usd": 0.004852,
+    "cached_input_cost_usd": 0.001236,
+    "output_cost_usd": 0.005891,
+    "total_cost_usd": 0.011979
   },
   "date": "2026-06-27"
 }
