@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "date": "2026-06-28",
+    "generated_at": "2026-06-28T10:57:23.998861",
+    "news_count": 92,
+    "sources_used": [
+      "CNBC",
+      "钛媒体",
+      "Investing.com Global News",
+      "36氪",
+      "Yahoo Finance",
+      "Financial Times (FT)",
+      "MarketWatch",
+      "爱范儿"
+    ]
+  },
+  "analysis": {
+    "summaries": [
+      {
+        "title": "美伊冲突升级，霍尔木兹海峡航运受阻",
+        "content": "美国与伊朗互相发动军事打击，伊朗攻击科威特和巴林的美军设施。航运公司警告，水雷将使海峡航运受限数月，通行量仅为战前一半，直接影响全球能源供应和通胀预期。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "AI投资热潮面临泡沫风险，BIS警告长期低迷",
+        "content": "国际清算银行警告，AI领域的过度投资可能导致回报不佳，引发资金大幅撤离，威胁全球经济。同时，AI算力需求导致谷歌限制Meta的Gemini使用，凸显资源稀缺。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "内存短缺冲击科技巨头，苹果被迫涨价",
+        "content": "内存芯片价格因AI需求飙升，苹果、微软被迫提高设备售价以覆盖成本，而小型消费电子公司面临生存危机。苹果因专利案面临5亿美元罚款，并转向长鑫存储寻求供应。",
+        "category": "industry",
+        "importance": 5
+      },
+      {
+        "title": "Jeremy Grantham警告美股估值历史最高",
+        "content": "知名投资人Jeremy Grantham指出，AI相关股票估值飙升使美股处于历史最贵水平。市场波动加剧，AI交易降温，但油价下跌缓解通胀担忧。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "SpaceX快速纳入纳斯达克100指数，ETF需求激增",
+        "content": "SpaceX通过纳斯达克快速通道纳入指数，将引发大量ETF被动买入。尽管IPO热度消退，但太空经济领域招聘依然强劲。",
+        "category": "company",
+        "importance": 4
+      },
+      {
+        "title": "高通激进转型，进军数据中心AI芯片市场",
+        "content": "高通发布数据中心CPU蜻蜓C1000，与Meta达成供货协议，并计划收购AI软件公司Modular和芯片初创Tenstorrent。目标2029年非手机业务收入达400亿美元。",
+        "category": "company",
+        "importance": 4
+      },
+      {
+        "title": "中国硬件科技股反弹，科创50季度涨62%",
+        "content": "以芯片为首的科创50指数本季度上涨约62%，PE达239倍历史高位。反弹基于本土替代和AI需求双叙事，但需业绩验证可持续性。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "DeepSeek发布DSpark推理加速框架，速度提升60%+",
+        "content": "DeepSeek与北大联合推出DSpark，将单用户生成速度提升60%-85%，已部署至V4模型。同时公司开始大规模招聘并接受外部融资，从实验室转向商业化。",
+        "category": "company",
+        "importance": 4
+      },
+      {
+        "title": "中国上半年经济增速预计4.5%-4.7%，呈K型分化",
+        "content": "人大报告预计上半年GDP增速在4.5%-4.7%区间，全年走势U型。经济呈现K型分化：高技术产业扩张，传统产业出清，内需偏弱，楼市和区域冷热不均。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "全球电商收紧退货政策，免费无限退货时代终结",
+        "content": "H&M、Zara、亚马逊等电商开始对退货收费或限制高退货率用户。过去被包装成用户体验的免费退货正成为利润黑洞，行业集体转向。",
+        "category": "industry",
+        "importance": 3
+      }
+    ],
+    "us_market": {
+      "trend": "bearish",
+      "confidence": 75,
+      "reasons": [
+        "美伊冲突升级导致霍尔木兹海峡航运受阻，推高能源价格和通胀预期，可能迫使美联储维持高利率，收紧流动性",
+        "AI投资泡沫风险警告及内存短缺冲击科技巨头，叠加美股估值历史高位，风险偏好转向risk-off"
+      ]
+    },
+    "cn_market": {
+      "trend": "neutral",
+      "confidence": 60,
+      "reasons": [
+        "中国硬件科技股反弹强劲，科创50季度涨62%，但估值过高需业绩验证，且内需偏弱、经济K型分化，上行空间受限",
+        "美伊冲突推高能源成本，可能加剧输入性通胀，但本土替代和AI需求叙事提供支撑，市场多空因素交织"
+      ]
+    },
+    "bullish_sectors": [
+      {
+        "sector": "能源",
+        "reason": "美伊冲突导致霍尔木兹海峡航运受阻，全球能源供应紧张，油价上涨利好石油和天然气生产商"
+      },
+      {
+        "sector": "国防军工",
+        "reason": "地缘冲突升级，各国增加军费开支，军工企业订单预期增长"
+      },
+      {
+        "sector": "半导体（中国）",
+        "reason": "中国本土替代和AI需求双叙事驱动，科创50大涨，且苹果转向长鑫存储，利好中国芯片企业"
+      },
+      {
+        "sector": "太空经济",
+        "reason": "SpaceX纳入纳斯达克100指数，ETF需求激增，太空经济领域招聘强劲，行业景气度提升"
+      },
+      {
+        "sector": "AI芯片（高通等）",
+        "reason": "高通进军数据中心AI芯片市场，与Meta合作，AI算力需求持续增长，利好相关芯片设计公司"
+      }
+    ],
+    "bearish_sectors": [
+      {
+        "sector": "消费电子",
+        "reason": "内存短缺导致苹果、微软等被迫涨价，小型消费电子公司面临生存危机，需求可能受抑制"
+      },
+      {
+        "sector": "电商零售",
+        "reason": "全球电商收紧退货政策，免费无限退货时代终结，可能抑制消费者购买意愿，影响零售收入"
+      },
+      {
+        "sector": "传统汽车",
+        "reason": "AI芯片短缺可能影响智能汽车生产，且油价上涨增加用车成本，传统燃油车需求承压"
+      },
+      {
+        "sector": "房地产（中国）",
+        "reason": "中国经济K型分化，内需偏弱，楼市冷热不均，房地产行业持续出清"
+      },
+      {
+        "sector": "航空航运",
+        "reason": "地缘冲突导致霍尔木兹海峡航运受阻，航运成本上升，航线风险增加，航空燃油成本上涨"
+      }
+    ],
+    "us_stocks": [
+      {
+        "symbol": "XOM",
+        "name": "Exxon Mobil Corporation",
+        "direction": "bullish",
+        "confidence": 85,
+        "reason": "美伊冲突升级导致霍尔木兹海峡航运受阻，全球能源供应紧张，油价上涨预期强烈，利好大型石油生产商如埃克森美孚。"
+      },
+      {
+        "symbol": "LMT",
+        "name": "Lockheed Martin Corporation",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "地缘冲突升级，各国增加军费开支，军工企业订单预期增长，洛克希德·马丁作为全球军工龙头直接受益。"
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "direction": "bearish",
+        "confidence": 75,
+        "reason": "内存短缺导致苹果被迫涨价，叠加专利案面临5亿美元罚款，成本上升和需求可能受抑制，对消费电子龙头形成利空。"
+      },
+      {
+        "symbol": "QCOM",
+        "name": "Qualcomm Incorporated",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "高通进军数据中心AI芯片市场，与Meta达成供货协议，AI算力需求持续增长，利好其非手机业务扩张。"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "direction": "bearish",
+        "confidence": 60,
+        "reason": "全球电商收紧退货政策，亚马逊对退货收费或限制高退货率用户，可能抑制消费者购买意愿，影响零售收入。"
+      }
+    ],
+    "cn_stocks": [
+      {
+        "symbol": "601857",
+        "name": "中国石油",
+        "direction": "bullish",
+        "confidence": 85,
+        "reason": "美伊冲突导致霍尔木兹海峡航运受阻，全球能源供应紧张，油价上涨利好中国石油等上游油气生产商。"
+      },
+      {
+        "symbol": "600760",
+        "name": "中航沈飞",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "地缘冲突升级，各国增加军费开支，军工企业订单预期增长，中航沈飞作为中国战斗机龙头直接受益。"
+      },
+      {
+        "symbol": "688981",
+        "name": "中芯国际",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "中国硬件科技股反弹强劲，科创50大涨，本土替代和AI需求双叙事驱动，且苹果转向长鑫存储，利好中国芯片代工龙头中芯国际。"
+      },
+      {
+        "symbol": "002049",
+        "name": "紫光国微",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "内存短缺冲击科技巨头，苹果转向长鑫存储，中国本土替代加速，紫光国微作为中国存储芯片设计龙头受益。"
+      },
+      {
+        "symbol": "600519",
+        "name": "贵州茅台",
+        "direction": "bearish",
+        "confidence": 50,
+        "reason": "中国经济K型分化，内需偏弱，楼市冷热不均，消费升级放缓，高端白酒需求可能受抑制，但影响相对间接。"
+      }
+    ]
+  },
+  "token_usage": {
+    "total_input_tokens": 15238,
+    "total_output_tokens": 2213,
+    "total_cached_tokens": 0,
+    "total_elapsed_seconds": 210.57,
+    "input_cost_usd": 0.004114,
+    "cached_input_cost_usd": 0.0,
+    "output_cost_usd": 0.002434,
+    "total_cost_usd": 0.006549
+  }
+}
