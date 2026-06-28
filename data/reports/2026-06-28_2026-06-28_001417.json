@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "date": "2026-06-28",
+    "generated_at": "2026-06-28T00:14:17.100719",
+    "news_count": 94,
+    "sources_used": [
+      "Financial Times (FT)",
+      "Investing.com Global News",
+      "钛媒体",
+      "36氪",
+      "MarketWatch",
+      "爱范儿",
+      "CNBC"
+    ]
+  },
+  "analysis": {
+    "summaries": [
+      {
+        "title": "美对伊朗发起第二轮军事打击",
+        "content": "美国针对伊朗在霍尔木兹海峡袭击商船的行为，连续第二天发动军事打击，破坏了此前60天停火的希望，地缘政治风险急剧升温。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "OpenAI发布GPT-5.6系列，但受限于美国政府管控",
+        "content": "GPT-5.6包括Sol、Terra、Luna三款模型，性能远超前代。但应美国政府要求，目前仅向少数受信合作伙伴有限预览，AI模型出口管制趋严。",
+        "category": "industry",
+        "importance": 5
+      },
+      {
+        "title": "苹果寻求从中国长鑫存储采购内存芯片",
+        "content": "为缓解内存芯片涨价带来的成本压力，苹果正游说美国政府，希望获批采购中国半导体企业长鑫存储的芯片，以打破对传统供应商的依赖。",
+        "category": "company",
+        "importance": 4
+      },
+      {
+        "title": ""
+      }
+    ],
+    "us_market": {
+      "trend": "bearish",
+      "confidence": 80,
+      "reasons": [
+        "地缘政治风险急剧升温，美国对伊朗军事打击破坏停火希望，触发风险规避情绪，利空股市。",
+        "避险需求推升美债和美元，收紧流动性，对高估值科技股构成压力。"
+      ]
+    },
+    "cn_market": {
+      "trend": "bearish",
+      "confidence": 65,
+      "reasons": [
+        "全球地缘风险升温导致风险偏好下降，A股外资流出压力增大。",
+        "AI模型出口管制趋严提示科技脱钩风险，中国半导体产业外部不确定性增加。"
+      ]
+    },
+    "bullish_sectors": [
+      {
+        "sector": "国防军工",
+        "reason": "中东地缘冲突升级，全球军备开支预期增加，美国军火及相关国防企业直接受益。"
+      },
+      {
+        "sector": "原油及能源",
+        "reason": "霍尔木兹海峡遇袭加剧供应中断担忧，原油价格攀升，利好能源板块。"
+      },
+      {
+        "sector": "黄金及避险资产",
+        "reason": "地缘风险加剧，资本涌入黄金等避险资产，推高金价，利好黄金矿业。"
+      },
+      {
+        "sector": "美国本土存储芯片",
+        "reason": "苹果寻求中国长鑫存储供货，反映全球存储供应紧张，美国存储巨头（如美光）议价能力增强。"
+      }
+    ],
+    "bearish_sectors": [
+      {
+        "sector": "航空公司及物流",
+        "reason": "中东冲突可能导致航线绕行、成本上升，且油价上涨侵蚀利润。"
+      },
+      {
+        "sector": "消费电子",
+        "reason": "AI管制和地缘不确定性抑制资本开支，苹果等企业的芯片供应链受阻将推迟产品发布。"
+      },
+      {
+        "sector": "旅游及休闲",
+        "reason": "全球风险规避情绪升温，跨境旅游需求下降，行业景气度受挫。"
+      },
+      {
+        "sector": "中国半导体",
+        "reason": "美国对AI模型和芯片出口管制趋严，中国半导体企业面临技术获取和外部市场准入双重阻力。"
+      }
+    ],
+    "us_stocks": [
+      {
+        "symbol": "RTX",
+        "name": "Raytheon Technologies",
+        "direction": "bullish",
+        "confidence": 85,
+        "reason": "美对伊朗军事打击升级地缘冲突，全球军备需求预期增加，RTX作为国防军工龙头，导弹和防御系统订单有望增长。"
+      },
+      {
+        "symbol": "USO",
+        "name": "United States Oil Fund",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "霍尔木兹海峡袭击事件加剧供应中断风险，国际油价上涨，USO追踪原油价格，地缘风险推升能源板块。"
+      },
+      {
+        "symbol": "GOLD",
+        "name": "Barrick Gold Corporation",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "地缘政治风险升温推高避险需求，金价上涨，Barrick Gold作为全球黄金矿业龙头，盈利预期改善。"
+      },
+      {
+        "symbol": "MU",
+        "name": "Micron Technology",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "苹果寻求中国长鑫存储供货，反映全球存储芯片供应紧张，美光作为美国存储龙头，议价能力增强，利好业绩。"
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "direction": "bearish",
+        "confidence": 65,
+        "reason": "苹果受限AI模型出口管制和地缘风险冲击消费电子市场，芯片供应链受阻可能推迟产品发布，成本压力增加。"
+      }
+    ],
+    "cn_stocks": [
+      {
+        "symbol": "600760",
+        "name": "中航沈飞",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "中东地缘冲突升级刺激全球军备开支预期，中航沈飞作为中国战斗机龙头，国防需求提升。"
+      },
+      {
+        "symbol": "600028",
+        "name": "中国石化",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "霍尔木兹海峡袭击推高国际油价，中国石化作为一体化能源巨头，上游勘探业务直接受益。"
+      },
+      {
+        "symbol": "600489",
+        "name": "中金黄金",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "地缘风险激发避险需求，黄金价格上涨，中金黄金作为国内黄金龙头，盈利空间扩大。"
+      },
+      {
+        "symbol": "002049",
+        "name": "紫光国微",
+        "direction": "bearish",
+        "confidence": 65,
+        "reason": "AI模型和芯片出口管制趋严，中国半导体面临技术封锁风险，紫光国微作为芯片设计龙头，外部不确定性增加。"
+      }
+    ]
+  },
+  "token_usage": {
+    "total_input_tokens": 14752,
+    "total_output_tokens": 3738,
+    "total_cached_tokens": 13056,
+    "total_elapsed_seconds": 42.7,
+    "input_cost_usd": 0.003983,
+    "cached_input_cost_usd": 0.000914,
+    "output_cost_usd": 0.004112,
+    "total_cost_usd": 0.009009
+  }
+}
