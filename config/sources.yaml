@@ -29,6 +29,86 @@ international:
     category: finance
     language: en
 
+  - name: Bloomberg
+    url: https://feeds.bloomberg.com/markets/news.rss 
+    category: finance
+    language: en
+
+  - name: WSJ
+    url: https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+    category: finance
+    language: en
+
+  - name: Federal Reserve
+    url: https://www.federalreserve.gov/feeds/press_all.xml
+    category: finance
+    language: en
+
+  - name: ECB
+    url: https://www.ecb.europa.eu/rss/press.html
+    category: finance
+    language: en
+
+  - name: IMF
+    url: https://www.imf.org/en/News/RSS
+    category: finance
+    language: en
+
+  - name: OilPrice
+    url: https://oilprice.com/rss/main
+    category: finance
+    language: en
+
+  - name: Mining.com
+    url: https://www.mining.com/feed/
+    category: finance
+    language: en
+
+  - name: FierceBiotech
+    url: https://www.fiercebiotech.com/rss/xml
+    category: finance
+    language: en
+
+  - name: SEC
+    url: https://www.sec.gov/news/pressreleases.rss
+    category: finance
+    language: en
+
+  - name: Reuters
+    url: https://news.google.com/rss/search?q=site:reuters.com
+    category: finance
+    language: en
+
+  - name: FT
+    url: https://news.google.com/rss/search?q=site:ft.com
+    category: finance
+    language: en
+
+  - name: OilPrice.com
+    url: https://oilprice.com/rss/main
+    category: energy_commodities
+    language: en
+
+  - name: Kitco News (Gold/Silver/Mining)
+    url: https://www.kitco.com/news/category/mining/rss
+    category: precious_metals
+    language: en
+
+  - name: STAT News (All)
+    url: https://www.statnews.com/feed/
+    category: biotech_pharma
+    language: en
+
+  - name: Variety
+    url: https://variety.com/feed/
+    category: entertainment_media
+    language: en
+
+  - name: The Hollywood Reporter
+    url: https://www.hollywoodreporter.com/feed/
+    category: entertainment_media
+    language: en
+
 
 domestic:
 
@@ -50,6 +130,11 @@ domestic:
   - name: 动点科技
     url: https://cn.technode.com/feed/
     category: tech_finance
+    language: zh
+
+  - name: 证券时报 (要闻)
+    url: https://rsshub.app/stcn/article/rank/yw
+    category: a_share_market
     language: zh
 
 # 抓取配置
