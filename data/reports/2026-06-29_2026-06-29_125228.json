@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "date": "2026-06-29",
+    "generated_at": "2026-06-29T12:52:28.615303",
+    "news_count": 270,
+    "sources_used": [
+      "Financial Times (FT)",
+      "FT",
+      "MarketWatch",
+      "Bloomberg",
+      "STAT News (All)",
+      "Mining.com",
+      "36氪",
+      "钛媒体",
+      "OilPrice",
+      "CNBC",
+      "The Hollywood Reporter",
+      "Investing.com Global News",
+      "爱范儿",
+      "FierceBiotech",
+      "Reuters",
+      "Yahoo Finance",
+      "Variety",
+      "动点科技"
+    ]
+  },
+  "analysis": {
+    "summaries": [
+      {
+        "title": "美伊同意暂停攻击，霍尔木兹海峡局势缓和",
+        "content": "美国和伊朗同意在周二卡塔尔谈判前暂停相互攻击，霍尔木兹海峡油轮通行逐步恢复，布伦特原油跌至四个月低点，市场风险偏好回升，美股期货上涨。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "韩国公布8800亿美元AI与半导体投资计划",
+        "content": "韩国政府宣布三星电子和SK海力士将投资8800亿美元建设新晶圆厂和数据中心，推动AI芯片产业发展。尽管计划规模庞大，但两家公司股价因市场对供应过剩的担忧而下跌。",
+        "category": "industry",
+        "importance": 5
+      },
+      {
+        "title": "Comcast宣布分拆NBCUniversal和Sky，股价暴涨20%",
+        "content": "Comcast计划通过免税分拆将NBCUniversal和Sky剥离为独立上市公司，聚焦有线电视和科技业务。此举推动股价创18年最大单日涨幅，市场预期将释放股东价值并可能引发更多媒体并购。",
+        "category": "company",
+        "importance": 5
+      },
+      {
+        "title": "SpaceX债券发行需求火爆，但分析师警告风险",
+        "content": "SpaceX 250亿美元债券发行吸引巨额需求，但分析师指出资本支出、再融资和投资者集中度风险，可能对市场构成潜在压力。",
+        "category": "company",
+        "importance": 4
+      },
+      {
+        "title": "BIS警告AI热潮可能引发股市暴跌",
+        "content": "国际清算银行（BIS）在年度报告中警告，高估值、投资者自满、循环融资和信贷市场溢出效应可能因AI狂热而触发股市大幅回调，危及经济稳定。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "中国央行意外下调隔夜利率，释放宽松信号",
+        "content": "中国央行将新设隔夜流动性工具利率设定在低于预期的水平，被市场视为事实上的降息，可能推动市场借贷成本下行，支撑经济复苏。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "百度旗下昆仑芯拟赴港IPO，目标估值500亿美元",
+        "content": "百度AI芯片子公司昆仑芯计划在香港上市，目标估值约500亿美元，超过百度自身市值。消息推动百度港股股价上涨7%，凸显AI芯片业务的高估值预期。",
+        "category": "company",
+        "importance": 4
+      },
+      {
+        "title": "Alphabet完成847.5亿美元美股史上最大股权融资",
+        "content": "Alphabet以每股84.75美元价格完成847.5亿美元股权融资，创美国企业历史最大规模。融资将用于AI基础设施和资本支出，反映科技巨头对算力的持续投入。",
+        "category": "company",
+        "importance": 4
+      },
+      {
+        "title": "普京首次承认乌克兰无人机打击导致俄罗斯燃料短缺",
+        "content": "俄罗斯总统普京公开承认乌克兰无人机袭击已严重影响国内燃料生产，这是其首次详细说明俄能源基础设施受损程度，凸显地缘冲突对能源供应的持续压力。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "AI数据中心面临极端天气威胁，电力需求激增",
+        "content": "热浪和恶劣天气增加AI数据中心电网压力、保险和维修成本。AI驱动的电力需求推动美国电力行业并购创纪录，但极端天气成为数据中心运营的新风险。",
+        "category": "industry",
+        "importance": 4
+      }
+    ],
+    "us_market": {
+      "trend": "bullish",
+      "confidence": 70,
+      "reasons": [
+        "美伊局势缓和，地缘风险下降，风险偏好回升，美股期货上涨。",
+        "Comcast分拆股价暴涨，Alphabet大规模股权融资，显示企业积极行动，提振市场情绪。"
+      ]
+    },
+    "cn_market": {
+      "trend": "bullish",
+      "confidence": 65,
+      "reasons": [
+        "中国央行意外下调隔夜利率，释放宽松信号，增加市场流动性。",
+        "百度昆仑芯拟赴港IPO，估值高企，提振科技股情绪。"
+      ]
+    },
+    "bullish_sectors": [
+      {
+        "sector": "科技（AI芯片）",
+        "reason": "韩国公布巨额AI投资计划，百度昆仑芯高估值IPO，Alphabet大规模融资用于AI基础设施，显示行业资本开支强劲，利好AI芯片及相关硬件。"
+      },
+      {
+        "sector": "媒体与娱乐",
+        "reason": "Comcast分拆NBCUniversal和Sky，股价暴涨，预期释放股东价值并引发更多媒体并购，提升行业估值。"
+      },
+      {
+        "sector": "能源（石油）",
+        "reason": "美伊局势缓和，霍尔木兹海峡恢复通行，布伦特原油跌至低点，短期油价承压但长期供应稳定，利好下游炼化及运输行业。"
+      },
+      {
+        "sector": "金融",
+        "reason": "中国央行降息释放宽松信号，降低融资成本，利好银行和券商；美股风险偏好回升，金融股受益。"
+      },
+      {
+        "sector": "电力与公用事业",
+        "reason": "AI数据中心电力需求激增，推动电力行业并购和投资，极端天气增加电网压力但长期需求增长确定。"
+      }
+    ],
+    "bearish_sectors": [
+      {
+        "sector": "传统半导体（存储芯片）",
+        "reason": "韩国巨额投资计划引发市场对供应过剩的担忧，三星和SK海力士股价下跌，存储芯片价格可能承压。"
+      },
+      {
+        "sector": "能源（上游勘探）",
+        "reason": "美伊缓和导致油价下跌，布伦特原油跌至四个月低点，上游勘探企业盈利预期下降。"
+      },
+      {
+        "sector": "国防军工",
+        "reason": "美伊暂停攻击，地缘风险下降，国防支出预期减弱，军工股可能面临回调。"
+      },
+      {
+        "sector": "高估值科技股",
+        "reason": "BIS警告AI热潮可能引发股市暴跌，高估值和投资者自满情绪增加回调风险，尤其是缺乏盈利支撑的AI概念股。"
+      },
+      {
+        "sector": "俄罗斯能源",
+        "reason": "普京承认乌克兰无人机打击导致燃料短缺，俄罗斯能源基础设施受损，供应中断风险增加，相关企业盈利受损。"
+      }
+    ],
+    "us_stocks": [
+      {
+        "symbol": "CMCSA",
+        "name": "Comcast Corporation",
+        "direction": "bullish",
+        "confidence": 90,
+        "reason": "Comcast宣布分拆NBCUniversal和Sky为独立上市公司，聚焦有线电视和科技业务，股价暴涨20%，市场预期释放股东价值并可能引发更多媒体并购，直接利好Comcast股东。"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc.",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "Alphabet完成847.5亿美元史上最大股权融资，用于AI基础设施和资本支出，反映科技巨头对算力的持续投入，直接利好Alphabet的AI业务发展。"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "韩国公布8800亿美元AI与半导体投资计划，Alphabet大规模融资用于AI基础设施，AI数据中心电力需求激增，作为AI芯片龙头，NVIDIA直接受益于行业资本开支强劲。"
+      },
+      {
+        "symbol": "XOM",
+        "name": "Exxon Mobil Corporation",
+        "direction": "bearish",
+        "confidence": 70,
+        "reason": "美伊同意暂停攻击，霍尔木兹海峡局势缓和，布伦特原油跌至四个月低点，上游勘探企业盈利预期下降，Exxon作为全球最大石油公司之一，油价下跌直接冲击其利润。"
+      },
+      {
+        "symbol": "LMT",
+        "name": "Lockheed Martin Corporation",
+        "direction": "bearish",
+        "confidence": 65,
+        "reason": "美伊暂停攻击，地缘风险下降，国防支出预期减弱，军工股面临回调，Lockheed Martin作为美国最大国防承包商，订单预期可能受地缘缓和影响。"
+      }
+    ],
+    "cn_stocks": [
+      {
+        "symbol": "600519",
+        "name": "贵州茅台",
+        "direction": "bullish",
+        "confidence": 60,
+        "reason": "中国央行意外下调隔夜利率，释放宽松信号，增加市场流动性，利好消费龙头，贵州茅台作为A股核心资产，受益于流动性改善和风险偏好回升。"
+      },
+      {
+        "symbol": "002415",
+        "name": "海康威视",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "百度旗下昆仑芯拟赴港IPO，目标估值500亿美元，凸显AI芯片业务高估值预期，海康威视作为AI安防龙头，其AI芯片需求有望受益于行业资本开支和估值重估。"
+      },
+      {
+        "symbol": "601857",
+        "name": "中国石油",
+        "direction": "bearish",
+        "confidence": 65,
+        "reason": "美伊缓和导致布伦特原油跌至四个月低点，上游勘探企业盈利预期下降，中国石油作为国内最大油气生产商，油价下跌直接压缩其利润空间。"
+      },
+      {
+        "symbol": "600036",
+        "name": "招商银行",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "中国央行降息释放宽松信号，降低融资成本，利好银行板块，招商银行作为零售银行龙头，受益于流动性宽松和信贷需求改善。"
+      },
+      {
+        "symbol": "600900",
+        "name": "长江电力",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "AI数据中心电力需求激增，推动电力行业投资，极端天气增加电网压力但长期需求增长确定，长江电力作为水电龙头，受益于电力需求结构性增长。"
+      }
+    ]
+  },
+  "token_usage": {
+    "total_input_tokens": 28928,
+    "total_output_tokens": 2320,
+    "total_cached_tokens": 0,
+    "total_elapsed_seconds": 222.68,
+    "input_cost_usd": 0.007811,
+    "cached_input_cost_usd": 0.0,
+    "output_cost_usd": 0.002552,
+    "total_cost_usd": 0.010363
+  }
+}
