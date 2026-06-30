@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "date": "2026-06-30",
+    "generated_at": "2026-06-30T11:36:32.677387",
+    "news_count": 297,
+    "sources_used": [
+      "CNBC",
+      "Bloomberg",
+      "OilPrice",
+      "Reuters",
+      "The Hollywood Reporter",
+      "FT",
+      "Yahoo Finance",
+      "Investing.com Global News",
+      "钛媒体",
+      "ECB",
+      "MarketWatch",
+      "Financial Times (FT)",
+      "FierceBiotech",
+      "STAT News (All)",
+      "Variety",
+      "36氪",
+      "Mining.com",
+      "爱范儿"
+    ]
+  },
+  "analysis": {
+    "summaries": [
+      {
+        "title": "Mag 7市值蒸发2.3万亿美元，AI支出回报存疑",
+        "content": "投资者对Mag 7巨额AI支出何时产生回报感到不安，导致其市值蒸发2.3万亿美元。资金转向受益于AI支出的芯片制造商，但市场对AI泡沫的担忧加剧。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "日元跌至40年新低，干预风险上升",
+        "content": "日元兑美元跌至1986年以来最低水平，跌破162关口。市场对日本当局可能干预汇市的警惕性提高，美联储鹰派立场加剧了日元贬值压力。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "油价面临自2020年以来最大季度跌幅",
+        "content": "由于美伊和谈进展及霍尔木兹海峡通航恢复，油价跌至每桶68美元附近，创下自2020年以来最大季度跌幅。摩根士丹利警告可能出现供应过剩。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "全球央行计划减少美元储备，为三年来首次",
+        "content": "一项调查显示，全球央行首次计划在长期内减少美元储备持有量。此举可能削弱美元地位，并影响全球资本流动和外汇市场格局。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "芯片股创最佳季度表现，但波动加剧",
+        "content": "芯片股正迎来有史以来最佳季度表现，受AI设备需求驱动。但近期市场震荡引发投资者对涨势可持续性的质疑，部分股票出现大幅回调。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "美国最高法院裁定特朗普不能解雇美联储理事",
+        "content": "最高法院裁定，特朗普在诉讼期间不得解雇美联储理事Lisa Cook。此举维护了美联储的独立性，对货币政策稳定性和市场信心有积极影响。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "Medicare将首次覆盖减肥药，利好诺和诺德和礼来",
+        "content": "Medicare将首次覆盖肥胖症药物，可能为诺和诺德和礼来带来数百万新患者，扩大老年人获取药物的渠道，对制药行业产生重大影响。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "法国通胀意外回落至2%目标，缓解欧央行加息压力",
+        "content": "法国通胀自伊朗战争以来首次放缓，能源成本下降使通胀率回落至欧洲央行2%的目标。这减轻了欧央行继续加息的压力，但官员仍保持警惕。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "中国6月制造业活动增速超预期，受科技出口需求推动",
+        "content": "中国制造业在6月增长快于预期，人工智能技术需求激增抵消了中东动荡的影响。这表明中国制造业韧性较强，对全球经济有支撑作用。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "AeroVironment股价飙升19%，订单积压达12亿美元",
+        "content": "无人机制造商AeroVironment因财报超预期而大涨，其自主系统收入超出预期9000万美元，订单积压持续增长至12亿美元，显示国防和无人机行业需求强劲。",
+        "category": "company",
+        "importance": 3
+      }
+    ],
+    "us_market": {
+      "trend": "bearish",
+      "confidence": 70,
+      "reasons": [
+        "Mag 7市值蒸发2.3万亿美元，AI支出回报存疑，市场对AI泡沫担忧加剧，风险偏好下降。",
+        "日元跌至40年新低，美元强势，美联储鹰派立场持续，流动性收紧预期压制美股估值。",
+        "油价大跌反映需求担忧，全球央行计划减少美元储备，削弱美元资产吸引力，资金可能流出美股。"
+      ]
+    },
+    "cn_market": {
+      "trend": "bullish",
+      "confidence": 65,
+      "reasons": [
+        "中国6月制造业活动增速超预期，受科技出口需求推动，显示经济韧性增强，利好A股基本面。",
+        "全球央行减少美元储备可能推动资金流向新兴市场，中国作为主要经济体受益于资本流入。",
+        "AI需求带动芯片等科技行业，中国科技出口受益，相关板块有望获得支撑。"
+      ]
+    },
+    "bullish_sectors": [
+      {
+        "sector": "芯片制造",
+        "reason": "AI设备需求驱动芯片股创最佳季度表现，资金从Mag 7转向受益于AI支出的芯片制造商，行业景气度持续。"
+      },
+      {
+        "sector": "国防与无人机",
+        "reason": "AeroVironment股价飙升19%，订单积压达12亿美元，显示国防和无人机行业需求强劲，地缘政治紧张提升国防开支预期。"
+      },
+      {
+        "sector": "减肥药与制药",
+        "reason": "Medicare首次覆盖减肥药，为诺和诺德和礼来带来数百万新患者，扩大市场空间，制药行业受益于政策利好。"
+      },
+      {
+        "sector": "中国科技出口",
+        "reason": "中国制造业受AI技术需求推动增长超预期，科技出口行业受益于全球AI投资浪潮，出口订单增加。"
+      },
+      {
+        "sector": "新能源",
+        "reason": "油价大跌可能加速能源转型，新能源成本相对优势凸显，全球央行减少美元储备背景下，新能源作为长期投资方向受关注。"
+      }
+    ],
+    "bearish_sectors": [
+      {
+        "sector": "大型科技股（Mag 7）",
+        "reason": "AI支出回报存疑，市值蒸发2.3万亿美元，市场对AI泡沫担忧加剧，资金流出，估值承压。"
+      },
+      {
+        "sector": "传统能源",
+        "reason": "油价面临2020年以来最大季度跌幅，美伊和谈进展及供应过剩预期，石油公司盈利前景恶化。"
+      },
+      {
+        "sector": "银行与金融",
+        "reason": "全球央行计划减少美元储备，美元地位削弱可能影响美元计价资产，美联储鹰派立场导致利率高位，信贷需求放缓。"
+      },
+      {
+        "sector": "消费零售",
+        "reason": "日元贬值推高进口成本，全球通胀压力虽缓解但消费信心仍弱，油价下跌反映需求疲软，消费行业面临压力。"
+      },
+      {
+        "sector": "房地产",
+        "reason": "美联储鹰派立场维持高利率，日元贬值加剧全球资本流动不确定性，房地产融资成本高企，需求受抑制。"
+      }
+    ],
+    "us_stocks": [
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "direction": "bullish",
+        "confidence": 85,
+        "reason": "新闻指出资金从Mag 7转向受益于AI支出的芯片制造商，且芯片股创最佳季度表现，受AI设备需求驱动。NVIDIA作为AI芯片龙头，直接受益于AI投资浪潮，订单和收入持续增长。"
+      },
+      {
+        "symbol": "AVAV",
+        "name": "AeroVironment Inc.",
+        "direction": "bullish",
+        "confidence": 90,
+        "reason": "新闻明确报道AeroVironment股价飙升19%，订单积压达12亿美元，自主系统收入超预期9000万美元，显示国防和无人机行业需求强劲，公司基本面直接受益。"
+      },
+      {
+        "symbol": "NVO",
+        "name": "Novo Nordisk A/S",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "Medicare首次覆盖减肥药，为诺和诺德带来数百万新患者，扩大市场空间。诺和诺德是减肥药市场领导者，政策利好直接推动收入增长预期。"
+      },
+      {
+        "symbol": "LLY",
+        "name": "Eli Lilly and Company",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "Medicare首次覆盖减肥药，礼来作为减肥药主要竞争者，同样受益于患者群体扩大，政策利好直接提升公司市场前景。"
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "direction": "bearish",
+        "confidence": 75,
+        "reason": "Mag 7市值蒸发2.3万亿美元，AI支出回报存疑，市场对AI泡沫担忧加剧。Apple作为Mag 7成员，面临资金流出和估值压力，且其AI投入尚未带来明确回报。"
+      },
+      {
+        "symbol": "XOM",
+        "name": "Exxon Mobil Corporation",
+        "direction": "bearish",
+        "confidence": 80,
+        "reason": "油价面临2020年以来最大季度跌幅，美伊和谈进展及供应过剩预期。Exxon作为传统能源龙头，油价下跌直接压缩盈利空间，业绩前景恶化。"
+      }
+    ],
+    "cn_stocks": [
+      {
+        "symbol": "688981",
+        "name": "中芯国际",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "中国6月制造业受AI技术需求推动增长超预期，芯片股创最佳季度表现。中芯国际作为中国芯片制造龙头，直接受益于AI设备需求带动的芯片订单增长。"
+      },
+      {
+        "symbol": "600745",
+        "name": "闻泰科技",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "中国科技出口受AI需求推动增长，闻泰科技作为半导体和通信设备龙头，受益于全球AI投资浪潮和出口订单增加，产业链核心节点。"
+      },
+      {
+        "symbol": "002049",
+        "name": "紫光国微",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "AI需求带动芯片行业景气度，紫光国微作为国内芯片设计龙头，直接受益于AI设备需求增长和国产替代趋势。"
+      },
+      {
+        "symbol": "600519",
+        "name": "贵州茅台",
+        "direction": "bearish",
+        "confidence": 60,
+        "reason": "全球央行减少美元储备可能推动资金流向新兴市场，但消费零售行业面临压力，日元贬值推高进口成本，消费信心仍弱。贵州茅台作为消费龙头，受整体消费环境疲软影响，需求可能放缓。"
+      },
+      {
+        "symbol": "000002",
+        "name": "万科A",
+        "direction": "bearish",
+        "confidence": 70,
+        "reason": "美联储鹰派立场维持高利率，全球资本流动不确定性增加，房地产融资成本高企，需求受抑制。万科作为房地产龙头，直接面临行业下行压力。"
+      }
+    ]
+  },
+  "token_usage": {
+    "total_input_tokens": 30388,
+    "total_output_tokens": 2461,
+    "total_cached_tokens": 0,
+    "total_elapsed_seconds": 233.46,
+    "input_cost_usd": 0.008205,
+    "cached_input_cost_usd": 0.0,
+    "output_cost_usd": 0.002707,
+    "total_cost_usd": 0.010912
+  }
+}
