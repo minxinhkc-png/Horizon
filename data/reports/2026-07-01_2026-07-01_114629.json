@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "date": "2026-07-01",
+    "generated_at": "2026-07-01T11:46:29.050143",
+    "news_count": 314,
+    "sources_used": [
+      "36氪",
+      "MarketWatch",
+      "CNBC",
+      "Bloomberg",
+      "OilPrice",
+      "钛媒体",
+      "STAT News (All)",
+      "Federal Reserve",
+      "Mining.com",
+      "爱范儿",
+      "SEC",
+      "FierceBiotech",
+      "Yahoo Finance",
+      "The Hollywood Reporter",
+      "FT",
+      "Investing.com Global News",
+      "Reuters",
+      "动点科技",
+      "Financial Times (FT)",
+      "Variety"
+    ]
+  },
+  "analysis": {
+    "summaries": [
+      {
+        "title": "美联储加息预期升温，美元走强施压全球资产",
+        "content": "市场对美联储7月加息押注增加，美元指数攀升，导致新兴市场货币抹去2026年涨幅，黄金跌至4000美元/盎司下方，创13年最差季度表现。美联储主席Warsh在辛特拉的全球首秀备受关注。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "美伊和谈波折，霍尔木兹海峡航运恢复缓慢",
+        "content": "伊朗拒绝与美国在多哈会谈，油市波动加剧。尽管伊朗称已出口4000万桶原油，但霍尔木兹海峡油轮通行量仍远低于战前水平，LNG供应中断可能持续数月，油价承压但供应风险未消。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "特朗普财务披露：2025年加密货币相关收入超10亿美元",
+        "content": "特朗普927页财务披露显示其2025年从加密货币和迷因币业务获利超10亿美元，同时还有房地产和股票交易收入，凸显其个人财务与加密市场的深度绑定。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "美国解除对Anthropic AI模型的出口管制，利好IPO前景",
+        "content": "美国商务部解除了对Anthropic的Fable 5和Mythos 5模型的出口限制，允许外国用户使用。此举为Anthropic的关键IPO扫清障碍，并推动其推出面向制药业的Claude Science产品。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "Nike财报超预期但中国销售下滑12%，关税退税支撑利润",
+        "content": "Nike季度业绩超华尔街预期，但中国区销售同比下降12%，且公司警告消费者焦虑持续。利润和毛利率受益于9.86亿美元关税退税，但投资者对缓慢的复苏进程失去耐心。",
+        "category": "company",
+        "importance": 4
+      },
+      {
+        "title": "Michael Burry首次做空卡特彼勒，押注AI驱动涨势回调",
+        "content": "知名投资者Michael Burry宣布首次做空卡特彼勒，称其股价在AI驱动的2026年反弹中近乎翻倍，估值过高。此举引发市场对工业周期股泡沫的讨论。",
+        "category": "company",
+        "importance": 4
+      },
+      {
+        "title": "欧元区通胀超预期放缓，油价回落助力降息预期",
+        "content": "欧元区6月通胀率下降幅度超过预期，主要受中东和平进程推动油价下跌影响。这为欧洲央行后续政策提供了更大灵活性，但市场仍在等待拉加德和Warsh的联合讲话。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "日本央行干预汇市效果有限，日元跌至40年低点",
+        "content": "日本政府已投入740亿美元干预日元汇率，但日元仍跌至40年低点。分析师指出，只要美日利差持续，单边干预无法逆转日元贬值趋势，市场关注美联储下一步行动。",
+        "category": "macro",
+        "importance": 3
+      },
+      {
+        "title": "AI基础设施投资激增，美国煤电与天然气支出达500亿美元",
+        "content": "为满足数据中心和AI算力的电力需求，美国企业今年在煤电和天然气发电上的投资预计达500亿美元，为数十年来首次超过中国。KKR与SK也在韩国启动13亿美元可再生能源平台。",
+        "category": "industry",
+        "importance": 3
+      },
+      {
+        "title": "欧盟对Shein、Temu等低价电商包裹征收3欧元附加费",
+        "content": "欧盟宣布对廉价电商包裹征收每件3欧元的费用，直接冲击Shein、Temu和AliExpress的商业模式。此举旨在减少低价值商品对本地零售和环境的冲击，可能重塑跨境电商格局。",
+        "category": "macro",
+        "importance": 3
+      }
+    ],
+    "us_market": {
+      "trend": "bearish",
+      "confidence": 75,
+      "reasons": [
+        "美联储加息预期升温，美元走强，流动性收紧，对美股估值构成压力",
+        "美伊和谈波折导致油价波动，能源成本上升可能抑制企业利润",
+        "Michael Burry做空卡特彼勒，引发对工业周期股泡沫的担忧，风险偏好下降"
+      ]
+    },
+    "cn_market": {
+      "trend": "bearish",
+      "confidence": 70,
+      "reasons": [
+        "美元走强导致新兴市场货币承压，人民币面临贬值压力，资本外流风险增加",
+        "Nike中国销售下滑12%，显示中国消费复苏缓慢，消费者信心不足",
+        "欧盟对低价电商包裹征收附加费，冲击Shein、Temu等中国跨境电商，出口前景恶化"
+      ]
+    },
+    "bullish_sectors": [
+      {
+        "sector": "AI基础设施",
+        "reason": "AI算力需求激增推动美国煤电和天然气投资达500亿美元，数据中心建设加速，利好相关能源和基建公司"
+      },
+      {
+        "sector": "加密货币",
+        "reason": "特朗普财务披露显示其加密货币收入超10亿美元，政策支持预期增强，推动加密市场情绪"
+      },
+      {
+        "sector": "AI软件与模型",
+        "reason": "美国解除对Anthropic AI模型的出口管制，利好AI公司IPO和商业化，推动行业增长"
+      },
+      {
+        "sector": "能源（传统）",
+        "reason": "AI基础设施投资带动煤电和天然气需求，能源价格波动中传统能源公司受益于供应风险"
+      },
+      {
+        "sector": "可再生能源",
+        "reason": "KKR与SK启动13亿美元可再生能源平台，全球绿色能源投资趋势持续，政策支持明确"
+      }
+    ],
+    "bearish_sectors": [
+      {
+        "sector": "工业周期股",
+        "reason": "Michael Burry做空卡特彼勒，质疑AI驱动涨势的可持续性，工业股估值泡沫风险上升"
+      },
+      {
+        "sector": "新兴市场货币与资产",
+        "reason": "美元走强和美联储加息预期导致新兴市场货币贬值，资本外流，相关股市和债券承压"
+      },
+      {
+        "sector": "跨境电商",
+        "reason": "欧盟对Shein、Temu等征收附加费，直接增加成本，削弱价格优势，商业模式受冲击"
+      },
+      {
+        "sector": "中国消费",
+        "reason": "Nike中国销售下滑12%，显示消费复苏缓慢，消费者信心不足，零售和可选消费承压"
+      },
+      {
+        "sector": "黄金",
+        "reason": "美元走强和加息预期导致黄金跌至4000美元以下，避险需求减弱，贵金属板块利空"
+      }
+    ],
+    "us_stocks": [
+      {
+        "symbol": "CAT",
+        "name": "Caterpillar Inc.",
+        "direction": "bearish",
+        "confidence": 85,
+        "reason": "Michael Burry首次做空卡特彼勒，押注AI驱动涨势回调，引发市场对工业周期股泡沫的讨论，直接利空该股。"
+      },
+      {
+        "symbol": "NKE",
+        "name": "Nike Inc.",
+        "direction": "bearish",
+        "confidence": 80,
+        "reason": "Nike财报显示中国销售同比下降12%，且消费者焦虑持续，尽管关税退税支撑利润，但投资者对缓慢复苏失去耐心，利空股价。"
+      },
+      {
+        "symbol": "ANTH",
+        "name": "Anthropic",
+        "direction": "bullish",
+        "confidence": 90,
+        "reason": "美国解除对Anthropic AI模型的出口管制，利好其IPO前景，并推动推出面向制药业的Claude Science产品，直接利好该公司。"
+      },
+      {
+        "symbol": "DUK",
+        "name": "Duke Energy Corporation",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "AI基础设施投资激增，美国煤电与天然气支出达500亿美元，数据中心电力需求增长，利好传统能源公司如Duke Energy。"
+      },
+      {
+        "symbol": "NEE",
+        "name": "NextEra Energy Inc.",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "AI基础设施投资带动可再生能源需求，KKR与SK启动13亿美元可再生能源平台，全球绿色能源投资趋势持续，利好NextEra Energy。"
+      },
+      {
+        "symbol": "GLD",
+        "name": "SPDR Gold Trust",
+        "direction": "bearish",
+        "confidence": 80,
+        "reason": "美联储加息预期升温，美元走强，黄金跌至4000美元/盎司下方，创13年最差季度表现，利空黄金ETF。"
+      }
+    ],
+    "cn_stocks": [
+      {
+        "symbol": "600519",
+        "name": "贵州茅台",
+        "direction": "bearish",
+        "confidence": 70,
+        "reason": "美元走强导致人民币贬值压力，资本外流风险增加，Nike中国销售下滑显示消费复苏缓慢，高端消费承压，利空贵州茅台。"
+      },
+      {
+        "symbol": "002415",
+        "name": "海康威视",
+        "direction": "bearish",
+        "confidence": 65,
+        "reason": "美元走强和美联储加息预期导致新兴市场货币贬值，资本外流，海康威视作为出口导向型企业，海外收入占比高，汇率波动和需求放缓利空。"
+      },
+      {
+        "symbol": "601899",
+        "name": "紫金矿业",
+        "direction": "bearish",
+        "confidence": 75,
+        "reason": "黄金跌至4000美元/盎司以下，美元走强压制贵金属价格，紫金矿业作为黄金和铜矿龙头，业绩受大宗商品价格下行影响。"
+      },
+      {
+        "symbol": "002230",
+        "name": "科大讯飞",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "美国解除对Anthropic AI模型的出口管制，利好AI行业整体情绪，科大讯飞作为国内AI龙头，受益于AI商业化加速。"
+      },
+      {
+        "symbol": "601985",
+        "name": "中国核电",
+        "direction": "bullish",
+        "confidence": 65,
+        "reason": "AI基础设施投资激增带动电力需求，美国煤电和天然气支出增加，全球能源投资趋势利好核电等清洁能源，中国核电受益于国内能源结构转型。"
+      },
+      {
+        "symbol": "300750",
+        "name": "宁德时代",
+        "direction": "bullish",
+        "confidence": 60,
+        "reason": "AI基础设施投资带动数据中心电力需求，可再生能源投资增加，宁德时代作为储能和电池龙头，受益于绿色能源转型。"
+      },
+      {
+        "symbol": "002352",
+        "name": "顺丰控股",
+        "direction": "bearish",
+        "confidence": 80,
+        "reason": "欧盟对Shein、Temu等低价电商包裹征收3欧元附加费，直接冲击跨境电商物流需求，顺丰控股作为跨境物流龙头，业务量可能下滑。"
+      },
+      {
+        "symbol": "600104",
+        "name": "上汽集团",
+        "direction": "bearish",
+        "confidence": 65,
+        "reason": "Nike中国销售下滑显示消费复苏缓慢，消费者信心不足，汽车作为可选消费品，上汽集团面临需求疲软压力。"
+      }
+    ]
+  },
+  "token_usage": {
+    "total_input_tokens": 32525,
+    "total_output_tokens": 2635,
+    "total_cached_tokens": 0,
+    "total_elapsed_seconds": 257.81,
+    "input_cost_usd": 0.008782,
+    "cached_input_cost_usd": 0.0,
+    "output_cost_usd": 0.002899,
+    "total_cost_usd": 0.01168
+  }
+}
