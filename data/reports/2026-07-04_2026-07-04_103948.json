@@ -1,0 +1,294 @@
+{
+  "meta": {
+    "date": "2026-07-04",
+    "generated_at": "2026-07-04T10:39:48.356553",
+    "news_count": 205,
+    "sources_used": [
+      "Variety",
+      "FierceBiotech",
+      "FT",
+      "36氪",
+      "The Hollywood Reporter",
+      "钛媒体",
+      "OilPrice",
+      "Financial Times (FT)",
+      "MarketWatch",
+      "Investing.com Global News",
+      "CNBC",
+      "爱范儿",
+      "Reuters",
+      "Bloomberg"
+    ]
+  },
+  "analysis": {
+    "summaries": [
+      {
+        "title": "霍尔木兹海峡恢复通航，OPEC 6月产量激增，油价面临下行压力",
+        "content": "OPEC 6月原油产量大幅反弹，海湾国家恢复出口，但供应仍远低于战前水平。Citi预测若海峡通航正常化，布伦特原油年底可能跌至60美元。同时，美国司法部敦促各州执行燃油价格欺诈法，抑制高油价。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "极端热浪威胁美国电网，PJM接近历史峰值，电力价格飙升",
+        "content": "美国东部PJM电网需求接近历史纪录，电力价格飙升，迫使运营商实施紧急限电。热浪恰逢独立日假期，影响旅行和户外活动，凸显电网脆弱性。",
+        "category": "macro",
+        "importance": 5
+      },
+      {
+        "title": "特朗普利用独立日庆典抨击共产主义，并赦免11名违反清洁空气法者",
+        "content": "特朗普在Mount Rushmore演讲中警告‘共产主义威胁’，并赦免11人（多为违反清洁空气法）。此举被视为2026年中期选举的政治动员，同时显示其放松环境监管的倾向。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "乌克兰无人机袭击圣彼得堡油港，俄罗斯燃料危机加深",
+        "content": "乌克兰对俄罗斯圣彼得堡地区油港发动大规模无人机袭击，俄罗斯被迫从日本进口航空燃油。同时，俄军宣称占领顿涅茨克重镇Kostiantynivka，但乌克兰否认。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "欧洲央行官员强调通胀警惕，法国预算动荡预示政治混乱",
+        "content": "ECB官员Nagel和Moulin表示需对通胀保持警惕，法国央行行长警告预算问题可能引发政治动荡。法国总统马克龙的预算收官加剧不确定性，影响欧元区政策预期。",
+        "category": "macro",
+        "importance": 4
+      },
+      {
+        "title": "SK海力士考虑0.5%承销费进行美国ADR发行，三星晶圆代工产能紧张",
+        "content": "SK海力士计划以低费率进行大规模美国存托凭证发行，三星晶圆代工部分制程（4nm近售罄、8nm满载）开始选择性接单。AI芯片需求持续推升半导体产能紧张。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "特斯拉在迈阿密推出Robotaxi服务，优必选仿生人形机器人预售超1.3万台",
+        "content": "特斯拉正式在迈阿密推出Robotaxi服务，标志自动驾驶商业化加速。同时，优必选U1系列仿生人形机器人预售超1.3万台，单价11.98万-99万元，显示消费级机器人市场爆发。",
+        "category": "industry",
+        "importance": 4
+      },
+      {
+        "title": "快手可灵AI以150亿美元估值融资30亿美元，BAT罕见同框投资",
+        "content": "快手旗下视频生成大模型可灵AI完成独立融资，投前估值150亿美元，引入阿里、百度、腾讯等投资者。这是全球视频大模型公司最大单笔融资，凸显AI视频赛道热度。",
+        "category": "company",
+        "importance": 4
+      },
+      {
+        "title": "大陆集团以40亿欧元向孤星基金出售ContiTech，聚焦轮胎业务",
+        "content": "德国大陆集团宣布以40亿欧元（加2.5亿欧元业绩对价）将ContiTech业务出售给孤星基金，交易后集团将专注于核心轮胎业务。这是汽车零部件行业重大重组。",
+        "category": "company",
+        "importance": 4
+      },
+      {
+        "title": "美国ACA参保人数减少300万，特朗普政府与政策专家归因分歧",
+        "content": "Affordable Care Act市场参保人数下降300万，特朗普政府归因于欺诈控制，而政策专家认为成本上升是主因。该分歧可能影响2026年中期选举的医疗政策辩论。",
+        "category": "macro",
+        "importance": 3
+      }
+    ],
+    "us_market": {
+      "trend": "bearish",
+      "confidence": 70,
+      "reasons": [
+        "油价下行压力缓解通胀但能源股承压，极端热浪推高电力价格但暴露电网脆弱性，市场对经济前景担忧加剧",
+        "欧洲央行鹰派言论和法国政治动荡增加全球不确定性，风险偏好下降"
+      ]
+    },
+    "cn_market": {
+      "trend": "bullish",
+      "confidence": 65,
+      "reasons": [
+        "AI行业持续火爆，快手可灵AI融资、SK海力士ADR发行、特斯拉Robotaxi等利好科技股，带动市场情绪",
+        "油价下跌降低输入性通胀压力，有利于制造业和消费"
+      ]
+    },
+    "bullish_sectors": [
+      {
+        "sector": "半导体与AI芯片",
+        "reason": "SK海力士ADR发行、三星产能紧张显示AI需求强劲，快手可灵AI融资表明资本持续涌入AI赛道"
+      },
+      {
+        "sector": "自动驾驶与机器人",
+        "reason": "特斯拉Robotaxi商业化落地，优必选人形机器人预售超预期，行业进入加速期"
+      },
+      {
+        "sector": "电力基础设施",
+        "reason": "极端热浪暴露电网脆弱性，未来电网升级和储能需求增加"
+      },
+      {
+        "sector": "消费电子",
+        "reason": "AI终端应用（如机器人、自动驾驶）带动相关零部件需求，且油价下跌利好消费"
+      },
+      {
+        "sector": "新能源",
+        "reason": "特朗普赦免违反清洁空气法者显示放松监管，但极端天气推动清洁能源长期需求，且油价下跌可能加速能源转型"
+      }
+    ],
+    "bearish_sectors": [
+      {
+        "sector": "传统能源（石油）",
+        "reason": "OPEC增产、霍尔木兹海峡通航恢复导致油价承压，Citi预测布伦特年底跌至60美元"
+      },
+      {
+        "sector": "航空与旅行",
+        "reason": "极端热浪影响独立日假期旅行，电力价格飙升增加运营成本，且油价下跌虽利好但需求受天气抑制"
+      },
+      {
+        "sector": "汽车零部件（传统）",
+        "reason": "大陆集团出售ContiTech聚焦轮胎，显示传统零部件业务面临重组压力，电动化转型冲击"
+      },
+      {
+        "sector": "医疗保健（ACA相关）",
+        "reason": "ACA参保人数减少300万，政策不确定性增加，可能影响保险和医疗服务公司"
+      },
+      {
+        "sector": "欧洲金融",
+        "reason": "欧洲央行鹰派、法国预算动荡增加政治风险，欧元区银行面临不确定性"
+      }
+    ],
+    "us_stocks": [
+      {
+        "symbol": "TSLA",
+        "name": "Tesla Inc.",
+        "direction": "bullish",
+        "confidence": 85,
+        "reason": "新闻：特斯拉在迈阿密推出Robotaxi服务 → 自动驾驶商业化加速 → 特斯拉作为行业龙头直接受益，Robotaxi服务标志其自动驾驶技术落地，有望打开新收入来源"
+      },
+      {
+        "symbol": "UBER",
+        "name": "Uber Technologies Inc.",
+        "direction": "bearish",
+        "confidence": 60,
+        "reason": "新闻：特斯拉推出Robotaxi服务 → 自动驾驶出租车竞争加剧 → Uber作为网约车平台面临特斯拉自有Robotaxi的竞争威胁，可能侵蚀其市场份额"
+      },
+      {
+        "symbol": "XOM",
+        "name": "Exxon Mobil Corporation",
+        "direction": "bearish",
+        "confidence": 80,
+        "reason": "新闻：OPEC 6月产量激增，霍尔木兹海峡恢复通航，油价面临下行压力 → 传统能源行业承压 → Exxon作为全球最大石油公司之一，油价下跌直接压缩其利润空间"
+      },
+      {
+        "symbol": "CVX",
+        "name": "Chevron Corporation",
+        "direction": "bearish",
+        "confidence": 75,
+        "reason": "新闻：OPEC增产、海峡通航恢复导致油价承压 → 传统能源行业利空 → Chevron作为美国主要石油生产商，油价下跌将影响其上游业务盈利"
+      },
+      {
+        "symbol": "DUK",
+        "name": "Duke Energy Corporation",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "新闻：极端热浪威胁美国电网，PJM接近历史峰值，电力价格飙升 → 电力基础设施需求增加 → Duke Energy作为美国主要电力公用事业公司，电力价格上涨和电网升级需求将提升其收入和投资预期"
+      },
+      {
+        "symbol": "NEE",
+        "name": "NextEra Energy Inc.",
+        "direction": "bullish",
+        "confidence": 65,
+        "reason": "新闻：极端热浪暴露电网脆弱性，未来电网升级和储能需求增加 → 新能源和电网基础设施受益 → NextEra作为全球领先的可再生能源公司，电网升级和储能需求将推动其业务增长"
+      },
+      {
+        "symbol": "SK",
+        "name": "SK Telecom Co., Ltd. (SK海力士母公司)",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "新闻：SK海力士考虑0.5%承销费进行美国ADR发行，三星晶圆代工产能紧张 → AI芯片需求强劲 → SK海力士作为全球第二大存储芯片厂商，AI需求推动HBM等高端产品需求，ADR发行有助于提升估值"
+      },
+      {
+        "symbol": "INTC",
+        "name": "Intel Corporation",
+        "direction": "bearish",
+        "confidence": 55,
+        "reason": "新闻：三星晶圆代工产能紧张（4nm近售罄、8nm满载） → 晶圆代工行业竞争格局变化 → Intel在代工领域面临三星和台积电的挤压，产能紧张可能使客户转向其他代工厂，但Intel自身代工业务尚未成熟，短期承压"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com Inc.",
+        "direction": "bullish",
+        "confidence": 60,
+        "reason": "新闻：快手可灵AI以150亿美元估值融资30亿美元，BAT同框投资 → AI视频赛道热度高 → Amazon作为云计算和AI服务提供商，AI视频生成需求增长将带动其AWS和AI基础设施服务需求"
+      }
+    ],
+    "cn_stocks": [
+      {
+        "symbol": "002230",
+        "name": "科大讯飞",
+        "direction": "bullish",
+        "confidence": 75,
+        "reason": "新闻：快手可灵AI融资30亿美元，BAT同框投资 → AI视频大模型赛道火爆 → 科大讯飞作为国内AI语音和认知智能龙头，在AI大模型领域有深厚积累，行业热度提升估值"
+      },
+      {
+        "symbol": "300750",
+        "name": "宁德时代",
+        "direction": "bullish",
+        "confidence": 65,
+        "reason": "新闻：特斯拉Robotaxi服务推出，优必选人形机器人预售超1.3万台 → 自动驾驶和机器人行业加速 → 宁德时代作为动力电池龙头，自动驾驶和机器人对电池需求增加，直接受益"
+      },
+      {
+        "symbol": "601012",
+        "name": "隆基绿能",
+        "direction": "bullish",
+        "confidence": 60,
+        "reason": "新闻：极端热浪暴露电网脆弱性，未来电网升级和储能需求增加 → 新能源行业长期需求向好 → 隆基绿能作为光伏龙头，电网升级和储能需求推动光伏装机增长"
+      },
+      {
+        "symbol": "600941",
+        "name": "中国移动",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "新闻：快手可灵AI融资，BAT投资 → AI视频生成需要大量算力和网络基础设施 → 中国移动作为国内最大通信运营商，算力网络和云业务受益于AI需求增长"
+      },
+      {
+        "symbol": "002415",
+        "name": "海康威视",
+        "direction": "bullish",
+        "confidence": 65,
+        "reason": "新闻：优必选人形机器人预售超1.3万台 → 机器人产业链核心节点 → 海康威视在机器视觉和传感器领域领先，机器人对视觉感知需求大，直接受益"
+      },
+      {
+        "symbol": "600519",
+        "name": "贵州茅台",
+        "direction": "neutral",
+        "confidence": 50,
+        "reason": "新闻：油价下跌降低输入性通胀压力，有利于消费 → 消费板块整体受益 → 贵州茅台作为消费龙头，油价下跌利好消费环境，但影响间接，传导较弱"
+      },
+      {
+        "symbol": "601857",
+        "name": "中国石油",
+        "direction": "bearish",
+        "confidence": 75,
+        "reason": "新闻：OPEC增产、海峡通航恢复，油价面临下行压力 → 传统能源行业承压 → 中国石油作为国内最大石油生产商，油价下跌直接减少其上游利润"
+      },
+      {
+        "symbol": "600028",
+        "name": "中国石化",
+        "direction": "bearish",
+        "confidence": 70,
+        "reason": "新闻：油价下跌 → 炼化行业成本下降但库存减值风险，且下游需求受经济影响 → 中国石化作为炼化龙头，油价下跌短期利空库存价值，但长期成本下降利好，综合偏空"
+      },
+      {
+        "symbol": "002594",
+        "name": "比亚迪",
+        "direction": "bullish",
+        "confidence": 80,
+        "reason": "新闻：特斯拉Robotaxi服务推出，优必选人形机器人预售 → 自动驾驶和机器人行业加速 → 比亚迪作为新能源汽车龙头，自动驾驶技术布局深厚，且机器人业务（如比亚迪电子）受益"
+      },
+      {
+        "symbol": "688981",
+        "name": "中芯国际",
+        "direction": "bullish",
+        "confidence": 70,
+        "reason": "新闻：SK海力士ADR发行，三星晶圆代工产能紧张 → 半导体产能紧张持续，AI芯片需求旺盛 → 中芯国际作为国内晶圆代工龙头，产能利用率提升和国产替代加速受益"
+      }
+    ]
+  },
+  "token_usage": {
+    "total_input_tokens": 23421,
+    "total_output_tokens": 2921,
+    "total_cached_tokens": 0,
+    "total_elapsed_seconds": 208.25,
+    "input_cost_usd": 0.006324,
+    "cached_input_cost_usd": 0.0,
+    "output_cost_usd": 0.003213,
+    "total_cost_usd": 0.009537
+  }
+}
