@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "date": "2026-07-06",
+    "generated_at": "2026-07-06T00:15:39.407827",
+    "news_count": 196,
+    "sources_used": [
+      "Reuters",
+      "CNBC",
+      "爱范儿",
+      "Financial Times (FT)",
+      "FT",
+      "Bloomberg",
+      "Variety",
+      "Investing.com Global News",
+      "MarketWatch",
+      "OilPrice",
+      "钛媒体",
+      "The Hollywood Reporter",
+      "36氪",
+      "FierceBiotech"
+    ]
+  },
+  "analysis": {
+    "summaries": [],
+    "us_market": {},
+    "cn_market": {},
+    "bullish_sectors": [],
+    "bearish_sectors": [],
+    "us_stocks": [],
+    "cn_stocks": []
+  },
+  "token_usage": {
+    "total_input_tokens": 20311,
+    "total_output_tokens": 9,
+    "total_cached_tokens": 0,
+    "total_elapsed_seconds": 7.75,
+    "input_cost_usd": 0.005484,
+    "cached_input_cost_usd": 0.0,
+    "output_cost_usd": 1e-05,
+    "total_cost_usd": 0.005494
+  }
+}
